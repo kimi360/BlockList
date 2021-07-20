@@ -1,0 +1,30 @@
+!---什么值得买---
+!头部搜索热门关键词
+smzdm.com###search-form > .hot-words
+!页脚footer
+smzdm.com###footer
+smzdm.com##.footer-floating-layer
+!侧边栏
+smzdm.com###elevator
+smzdm.com##.J_index_elevator
+!头部更多-金融、汽车、旅游
+smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(2)
+smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(3)
+smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(4)
+!头部菜单-集团官网、值品牌计划
+smzdm.com##a[href="https://www.zhidemai.com"]
+smzdm.com##a[href="https://shangjia.smzdm.com/"]
+!排行榜-达人、品牌
+smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(3)
+smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(5)
+!爆料页爆料必读、视频讲解、商家爆料须知、管理规范
+smzdm.com###content > div > div > div:nth-child(2) > div.read > div.must-read
+smzdm.com###content > div > div > div:nth-child(2) > div.read > div.video-view
+smzdm.com##.merchants-reported.z-clearfix
+smzdm.com##.yueRul
+!好文详情页右侧写文章图片
+post.smzdm.com##.xiewenzhang
+!移动端头部banner
+m.smzdm.com##.sub-banner
+!移动端底部banner
+m.smzdm.com##.footer-banner

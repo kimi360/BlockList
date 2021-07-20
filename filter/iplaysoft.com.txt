@@ -1,0 +1,14 @@
+!-异次元软件世界-
+!首页banner
+iplaysoft.com###section_postbanner
+!首页文章列表广告
+iplaysoft.com###postlist > div:nth-child(2)
+iplaysoft.com###postlist > div.wwads-cn.wwads-horizontal
+!侧边栏-赞助商
+iplaysoft.com###sidebar > ul > div
+!页脚站点信息
+iplaysoft.com##.ft_info
+!详情页微信公众号二维码
+iplaysoft.com##.post_wechat_qr
+!详情页打赏页面
+iplaysoft.com##.donate

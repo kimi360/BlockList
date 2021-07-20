@@ -1,0 +1,7 @@
+!----哔哩哔哩----
+!登录popup框
+bilibili.com##.van-popover.van-popper
+!页脚右侧社交软件相关图标
+bilibili.com##.footer_right
+!页脚网站信息及合作机构
+bilibili.com##.partner.b-footer-wrap

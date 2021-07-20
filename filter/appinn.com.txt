@@ -1,0 +1,13 @@
+!----小众软件----
+!底部版权信息
+appinn.com##.copyrights
+!列表头部广告1
+appinn.com###content_box > section.featured-section.clearfix
+!列表头部广告2
+appinn.com###latest-posts > article:nth-child(2)
+!底部分享发布的说明文字
+appinn.com###text-9 > div.textwidget:last-child > p:nth-child(2)
+!底部分享提问的说明文字
+appinn.com###text-9 > div.textwidget:last-child > p:nth-child(4)
+!论坛头部提示banner
+meta.appinn.net###banner

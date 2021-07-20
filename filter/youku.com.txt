@@ -1,0 +1,8 @@
+!------优酷------
+!登录浮框提示
+youku.com##.info-bottom_3C0mQ.show_C8p0e
+!底部版权信息
+youku.com##.g-authentication_lHADz
+!侧边栏一键换肤，意见反馈
+youku.com##.change-skin_1dp97
+youku.com##.report_2SyuQ

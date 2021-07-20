@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Generate block list
-      run: cat filter/00head.info > list.txt && cat filter/*.txt >> list.txt
+      run: cat filter/00head.info > list.txt && cat filter/*.txt | grep -v ! >> list.txt
     - name: Commit changes
       uses: EndBug/add-and-commit@master
       with:
