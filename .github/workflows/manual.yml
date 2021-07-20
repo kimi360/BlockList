@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Send greeting
-      run: cat filter/*.txt > list.txt
+      run: ls
