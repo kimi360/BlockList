@@ -4,9 +4,18 @@ name: Merge List
 on:
   push:
 jobs:
-  merge:
+  Merge:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - name: Send greeting
+    - uses: actions/checkout@master
+    - name: Generate block list
       run: cat filter/*.txt > list.txt && cat list.txt
+    - name: Commit changes
+      uses: EndBug/add-and-commit@master
+      with:
+        author_name: kimi360
+        author_email: kimi360@gamil.com
+        message: "更新过滤列表"
+        add: "list.txt"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }
