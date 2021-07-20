@@ -18,4 +18,4 @@ jobs:
         message: "更新过滤列表"
         add: "list.txt"
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
