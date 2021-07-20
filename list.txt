@@ -1,8 +1,100 @@
 ! Title: Kimi's adblock list
 ! Expires: 1 day (update frequency)
-!---梅林路由器---
-!头部logo
+163.com###js_N_nav > div > div.c-fl > div > div > ul > li:nth-child(3)
+163.com###js_N_nav > div > div.c-fl > div > div > ul > li:nth-child(5)
+163.com###js_N_nav > div > div.c-fl > div > div > ul > li:nth-child(6)
+163.com###js_N_nav > div > div.c-fr > ul > li
+163.com###wljd
+163.com###lazy_live_js
+163.com###js_logined_suggest > li:nth-child(3)
+163.com###js_logined_suggest > li:nth-child(4)
+163.com###js_logined_suggest > li:nth-child(5)
+163.com###js_logined_suggest > li:nth-child(7)
+163.com###js_logined_suggest > li:nth-child(8)
+163.com##.mod_channel.mod_bohezhibo
+163.com##.mod_synthesis_hongcai
+163.com##.mod_channel.mod_lofter
+163.com##.mod_channel.mod_yunread
+163.com##.cm_mod_tab.cm_mod_tab2.mod_tongcheng_tab
+163.com##.mod_home_app
+163.com##.cm_mod_tab.cm_mod_tab1.channel_relative_2016.cm_mod_yanxuan
+163.com##.cm_mod_tab.cm_mod_tab1.mt30.channel_relative_2016.mod_yunketang
+163.com##.cm_mod_tab.cm_mod_tab1.channel_relative_2016.mt30
+163.com##.ns_side_qrcode
+163.com##.newsapp-qrcode
+163.com##.mod_ntes_stock.mt30
+163.com##.mod_news_download
 192.168.1.1##img[src="images/merlin-logo.png"]
-!--华数办公门户--
-!首页popup弹框
+appinn.com##.copyrights
+appinn.com###content_box > section.featured-section.clearfix
+appinn.com###latest-posts > article:nth-child(2)
+appinn.com###text-9 > div.textwidget:last-child > p:nth-child(2)
+appinn.com###text-9 > div.textwidget:last-child > p:nth-child(4)
+baidu.com###s_wrap
+baidu.com###s-hotsearch-wrapper
+baidu.com###s_side_wrapper
+baidu.com###bottom_layer
+baidu.com##a[href="https://www.hao123.com"]
+baidu.com##a[href="https://live.baidu.com/"]
+baidu.com##a[href="https://haokan.baidu.com/?sfrom=baidu-top"]
+passport.baidu.com##.app-download-link
+bilibili.com##.van-popover.van-popper
+bilibili.com##.footer_right
+iplaysoft.com###section_postbanner
+iplaysoft.com###postlist > div:nth-child(2)
+iplaysoft.com###postlist > div.wwads-cn.wwads-horizontal
+iplaysoft.com###sidebar > ul > div
+iplaysoft.com##.ft_info
+iplaysoft.com##.post_wechat_qr
+jd.com###J_promotional-top
+jd.com##.mobile_static
+jd.com###hotwords
+jd.com###shortcut > div > ul.fr > li:nth-child(8)
+jd.com###shortcut > div > ul.fr > li:nth-child(9)
+jd.com###shortcut > div > ul.fr > li:nth-child(14)
+jd.com###shortcut > div > ul.fr > li:nth-child(15)
+jd.com##.mod_copyright
+jd.com###footer-2017
+jd.com###shortcut-2014 > div > ul.fr > li:nth-child(8)
+jd.com###shortcut-2014 > div > ul.fr > li:nth-child(9)
+jd.com###shortcut-2014 > div > ul.fr > li:nth-child(14)
+jd.com###shortcut-2014 > div > ul.fr > li:nth-child(15)
+jd.com##a[href="https://paimai.jd.com/"]
+item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-qrcode
+item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-feedback
+miaosha.jd.com##.sk_mod_er_mobile
+kaola.com###topnotice
+kaola.com###topNavLeft2
+kaola.com##.cinform.f-hkdn.f-hkdnact
+kaola.com##.dropmenu.more
+kaola.com##.checkin
+kaola.com##.m-app2.m-app2-1
+kaola.com##.bottomImg
+kaola.com###aboutNEST
+lizhi.io##.copyright-bottom
+lizhi.io##.friend-links
+store.lizhi.io##._bem-footer__hint
+smzdm.com###search-form > .hot-words
+smzdm.com###footer
+smzdm.com##.footer-floating-layer
+smzdm.com###elevator
+smzdm.com##.J_index_elevator
+smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(2)
+smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(3)
+smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(4)
+smzdm.com##a[href="https://www.zhidemai.com"]
+smzdm.com##a[href="https://shangjia.smzdm.com/"]
+smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(3)
+smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(5)
+smzdm.com###content > div > div > div:nth-child(2) > div.read > div.must-read
+smzdm.com###content > div > div > div:nth-child(2) > div.read > div.video-view
+smzdm.com##.merchants-reported.z-clearfix
+smzdm.com##.yueRul
+post.smzdm.com##.xiewenzhang
+m.smzdm.com##.sub-banner
+sspai.com##.icon_box
 iam.wasu.cn##div.pop-up.open
+youku.com##.info-bottom_3C0mQ.show_C8p0e
+youku.com##.g-authentication_lHADz
+youku.com##.change-skin_1dp97
+zhihu.com##.Footer
