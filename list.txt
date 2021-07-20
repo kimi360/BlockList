@@ -1,3 +1,2 @@
-!---梅林路由器---
-!头部logo
-192.168.1.1##img[src="images/merlin-logo.png"]
+! Title: Kimi's adblock list
+! Expires: 1 day (update frequency)
