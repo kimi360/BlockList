@@ -7,8 +7,11 @@ smzdm.com##.footer-floating-layer
 !侧边栏
 smzdm.com###elevator
 smzdm.com##.J_index_elevator
-!侧边热门话题
+!首页侧边热门话题
 smzdm.com##.side-hot-topic
+!好价详情侧边爆料框及应用按钮
+smzdm.com##.baoliao-box
+smzdm.com##.share_app_icon
 !头部更多-金融、汽车、旅游
 smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(2)
 smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(3)
