@@ -61,6 +61,7 @@ jd.com##.elevator_list > li:nth-child(4)
 jd.com##.elevator_list > li:nth-child(6)
 jd.com##.mod_copyright
 jd.com###footer-2017
+jd.com##.mod_help_cover
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(8)
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(9)
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(14)
