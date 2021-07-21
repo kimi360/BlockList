@@ -54,6 +54,8 @@ jd.com###shortcut > div > ul.fr > li:nth-child(8)
 jd.com###shortcut > div > ul.fr > li:nth-child(9)
 jd.com###shortcut > div > ul.fr > li:nth-child(14)
 jd.com###shortcut > div > ul.fr > li:nth-child(15)
+jd.com###J_niceGoods
+jd.com###J_feeds
 jd.com##.mod_copyright
 jd.com###footer-2017
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(8)
@@ -64,6 +66,7 @@ jd.com##a[href="https://paimai.jd.com/"]
 item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-qrcode
 item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-feedback
 miaosha.jd.com##.sk_mod_er_mobile
+passport.jd.com##.tips-wrapper
 kaola.com###topnotice
 kaola.com###topNavLeft2
 kaola.com##.cinform.f-hkdn.f-hkdnact
