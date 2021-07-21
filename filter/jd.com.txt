@@ -31,6 +31,8 @@ jd.com###shortcut-2014 > div > ul.fr > li:nth-child(14)
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(15)
 !头部拍卖按钮
 jd.com##a[href="https://paimai.jd.com/"]
+!详情页关联购买
+item.jd.com###fittings
 !详情页侧边栏二维码、反馈按钮
 item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-qrcode
 item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-feedback
