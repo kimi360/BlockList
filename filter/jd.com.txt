@@ -10,6 +10,10 @@ jd.com###shortcut > div > ul.fr > li:nth-child(8)
 jd.com###shortcut > div > ul.fr > li:nth-child(9)
 jd.com###shortcut > div > ul.fr > li:nth-child(14)
 jd.com###shortcut > div > ul.fr > li:nth-child(15)
+!首页发现好货
+jd.com###J_niceGoods
+!首页为你推荐
+jd.com###J_feeds
 !页脚版权信息
 jd.com##.mod_copyright
 jd.com###footer-2017
