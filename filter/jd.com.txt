@@ -22,6 +22,8 @@ jd.com##.elevator_list > li:nth-child(6)
 !页脚版权信息
 jd.com##.mod_copyright
 jd.com###footer-2017
+!页脚右侧覆盖区域
+jd.com##.mod_help_cover
 !其他页头部菜单-分割线、企业采购、手机京东
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(8)
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(9)
