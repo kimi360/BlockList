@@ -89,6 +89,8 @@ smzdm.com##.footer-floating-layer
 smzdm.com###elevator
 smzdm.com##.J_index_elevator
 smzdm.com##.side-hot-topic
+smzdm.com##.baoliao-box
+smzdm.com##.share_app_icon
 smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(2)
 smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(3)
 smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(4)
