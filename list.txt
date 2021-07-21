@@ -69,6 +69,7 @@ jd.com###shortcut-2014 > div > ul.fr > li:nth-child(15)
 jd.com##a[href="https://paimai.jd.com/"]
 item.jd.com###choose-service
 item.jd.com###choose-baitiao
+item.jd.com###shopRecSuit
 item.jd.com###fittings
 item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-qrcode
 item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-feedback
