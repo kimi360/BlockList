@@ -14,6 +14,9 @@ jd.com###shortcut > div > ul.fr > li:nth-child(15)
 jd.com###J_niceGoods
 !首页为你推荐
 jd.com###J_feeds
+!首页侧边电梯为你推荐、反馈
+jd.com##.elevator_list > li:nth-child(4)
+jd.com##.elevator_list > li:nth-child(6)
 !页脚版权信息
 jd.com##.mod_copyright
 jd.com###footer-2017
