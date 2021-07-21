@@ -88,6 +88,7 @@ smzdm.com###footer
 smzdm.com##.footer-floating-layer
 smzdm.com###elevator
 smzdm.com##.J_index_elevator
+smzdm.com##.side-hot-topic
 smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(2)
 smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(3)
 smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(4)
@@ -101,6 +102,7 @@ smzdm.com##.merchants-reported.z-clearfix
 smzdm.com##.yueRul
 post.smzdm.com##.xiewenzhang
 m.smzdm.com##.sub-banner
+m.smzdm.com##.footer-banner
 sspai.com##.icon_box
 iam.wasu.cn##div.pop-up.open
 youku.com##.info-bottom_3C0mQ.show_C8p0e
