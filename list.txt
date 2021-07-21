@@ -56,6 +56,8 @@ jd.com###shortcut > div > ul.fr > li:nth-child(14)
 jd.com###shortcut > div > ul.fr > li:nth-child(15)
 jd.com###J_niceGoods
 jd.com###J_feeds
+jd.com##.elevator_list > li:nth-child(4)
+jd.com##.elevator_list > li:nth-child(6)
 jd.com##.mod_copyright
 jd.com###footer-2017
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(8)
