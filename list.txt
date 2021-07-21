@@ -67,6 +67,7 @@ jd.com###shortcut-2014 > div > ul.fr > li:nth-child(9)
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(14)
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(15)
 jd.com##a[href="https://paimai.jd.com/"]
+item.jd.com###fittings
 item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-qrcode
 item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-feedback
 miaosha.jd.com##.sk_mod_er_mobile
