@@ -38,7 +38,6 @@ baidu.com##a[href="https://www.hao123.com"]
 baidu.com##a[href="https://live.baidu.com/"]
 baidu.com##a[href="https://haokan.baidu.com/?sfrom=baidu-top"]
 passport.baidu.com##.app-download-link
-map.baidu.com###message-panel
 baidu.com##.blank-frame
 bilibili.com##.van-popover.van-popper
 bilibili.com##.footer_right
