@@ -34,6 +34,8 @@ jd.com##a[href="https://paimai.jd.com/"]
 !详情页选择服务、白条分期
 item.jd.com###choose-service
 item.jd.com###choose-baitiao
+!详情页店长推荐
+item.jd.com###shopRecSuit
 !详情页关联购买
 item.jd.com###fittings
 !详情页侧边栏二维码、反馈按钮
