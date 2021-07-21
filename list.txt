@@ -48,6 +48,7 @@ iplaysoft.com###sidebar > ul > div
 iplaysoft.com##.ft_info
 iplaysoft.com##.post_wechat_qr
 jd.com###J_promotional-top
+jd.com###o-header-2013
 jd.com##.mobile_static
 jd.com###hotwords
 jd.com###shortcut > div > ul.fr > li:nth-child(8)
