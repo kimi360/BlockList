@@ -1,6 +1,8 @@
 !------京东------
 !首页置顶广告
 jd.com###J_promotional-top
+!家电首页置顶广告
+jd.com###o-header-2013
 !首页头部右侧手机二维码
 jd.com##.mobile_static
 !首页搜索栏热搜关键词
