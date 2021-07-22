@@ -41,6 +41,11 @@ baidu.com##a[href="https://live.baidu.com/"]
 baidu.com##a[href="https://haokan.baidu.com/?sfrom=baidu-top"]
 passport.baidu.com##.app-download-link
 baidu.com##.blank-frame
+bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(3)
+bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(4)
+bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(5)
+bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(7)
+bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(8)
 bilibili.com##.van-popover.van-popper
 bilibili.com##.footer_right
 bilibili.com##.partner.b-footer-wrap
