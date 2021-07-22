@@ -39,6 +39,7 @@ baidu.com###bottom_layer
 baidu.com##a[href="https://www.hao123.com"]
 baidu.com##a[href="https://live.baidu.com/"]
 baidu.com##a[href="https://haokan.baidu.com/?sfrom=baidu-top"]
+baidu.com##.s-weather-wrapper
 passport.baidu.com##.app-download-link
 baidu.com##.blank-frame
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(3)
