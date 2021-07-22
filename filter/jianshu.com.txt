@@ -10,3 +10,5 @@ jianshu.com##._3Pnjry
 jianshu.com##._13lIbp
 !首页ICP信息
 jianshu.com##.icp
+!详情页底部评论框
+jianshu.com##._2xr8G8
