@@ -25,7 +25,6 @@
 163.com##.mod_ntes_stock.mt30
 163.com##.mod_news_download
 163.com##.subfoot
-192.168.1.1##img[src="images/merlin-logo.png"]
 appinn.com##.copyrights
 appinn.com###content_box > section.featured-section.clearfix
 appinn.com###latest-posts > article:nth-child(2)
@@ -44,7 +43,6 @@ baidu.com##.blank-frame
 bilibili.com##.van-popover.van-popper
 bilibili.com##.footer_right
 bilibili.com##.partner.b-footer-wrap
-conoha.jp##.gmoGroupHeader.gmoGroupHeader-keepdistance
 iplaysoft.com###section_postbanner
 iplaysoft.com###postlist > div:nth-child(2)
 iplaysoft.com###postlist > div.wwads-cn.wwads-horizontal
