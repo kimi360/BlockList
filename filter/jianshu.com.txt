@@ -10,6 +10,8 @@ jianshu.com##._3Pnjry
 jianshu.com##._13lIbp
 !首页ICP信息
 jianshu.com##.icp
+!详情页文章标题下的作者信息
+jianshu.com##.rEsl9f
 !详情页底部评论框
 jianshu.com##._2xr8G8
 !头部菜单下载app按钮
