@@ -105,8 +105,8 @@ kaola.com###aboutNEST
 kaola.com###btmlist
 lizhi.io##.copyright-bottom
 lizhi.io##.friend-links
-store.lizhi.io##._bem-footer__hint
 lizhi.io##div[x-data="{}"]
+store.lizhi.io##._bem-footer__hint
 smzdm.com###search-form > .hot-words
 smzdm.com###footer
 smzdm.com##.footer-floating-layer
