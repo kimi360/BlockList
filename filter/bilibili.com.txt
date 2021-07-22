@@ -1,4 +1,10 @@
 !----哔哩哔哩----
+!首页头部左侧菜单游戏中心、直播、会员购、赛事、下载app
+bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(3)
+bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(4)
+bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(5)
+bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(7)
+bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(8)
 !登录popup框
 bilibili.com##.van-popover.van-popper
 !页脚右侧社交软件相关图标
