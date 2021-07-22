@@ -6,3 +6,5 @@ jianshu.com##._1F7CTF
 jianshu.com##._1jKNin
 !详情页左侧边栏
 jianshu.com##._3Pnjry
+!首页ICP信息
+jianshu.com##.icp
