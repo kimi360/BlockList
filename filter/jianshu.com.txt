@@ -9,7 +9,7 @@ jianshu.com##._3Pnjry
 !详情页文章后下载二维码及打赏信息
 jianshu.com##._13lIbp
 !首页侧边app下载二维码
-jianshu.com##index-aside-download-qrbox
+jianshu.com###index-aside-download-qrbox
 !首页ICP信息
 jianshu.com##.icp
 !详情页文章标题下的作者信息
