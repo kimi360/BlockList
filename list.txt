@@ -24,12 +24,14 @@
 163.com##.newsapp-qrcode
 163.com##.mod_ntes_stock.mt30
 163.com##.mod_news_download
+163.com##.subfoot
 192.168.1.1##img[src="images/merlin-logo.png"]
 appinn.com##.copyrights
 appinn.com###content_box > section.featured-section.clearfix
 appinn.com###latest-posts > article:nth-child(2)
 appinn.com###text-9 > div.textwidget:last-child > p:nth-child(2)
 appinn.com###text-9 > div.textwidget:last-child > p:nth-child(4)
+meta.appinn.net###banner
 baidu.com###s_wrap
 baidu.com###s-hotsearch-wrapper
 baidu.com###s_side_wrapper
@@ -41,12 +43,15 @@ passport.baidu.com##.app-download-link
 baidu.com##.blank-frame
 bilibili.com##.van-popover.van-popper
 bilibili.com##.footer_right
+bilibili.com##.partner.b-footer-wrap
+conoha.jp##.gmoGroupHeader.gmoGroupHeader-keepdistance
 iplaysoft.com###section_postbanner
 iplaysoft.com###postlist > div:nth-child(2)
 iplaysoft.com###postlist > div.wwads-cn.wwads-horizontal
 iplaysoft.com###sidebar > ul > div
 iplaysoft.com##.ft_info
 iplaysoft.com##.post_wechat_qr
+iplaysoft.com##.donate
 jd.com###J_promotional-top
 jd.com###o-header-2013
 jd.com##.mobile_static
@@ -83,9 +88,11 @@ kaola.com##.checkin
 kaola.com##.m-app2.m-app2-1
 kaola.com##.bottomImg
 kaola.com###aboutNEST
+kaola.com###btmlist
 lizhi.io##.copyright-bottom
 lizhi.io##.friend-links
 store.lizhi.io##._bem-footer__hint
+lizhi.io##div[x-data="{}"]
 smzdm.com###search-form > .hot-words
 smzdm.com###footer
 smzdm.com##.footer-floating-layer
@@ -109,8 +116,10 @@ post.smzdm.com##.xiewenzhang
 m.smzdm.com##.sub-banner
 m.smzdm.com##.footer-banner
 sspai.com##.icon_box
+sspai.com##.ssp_text
 iam.wasu.cn##div.pop-up.open
 youku.com##.info-bottom_3C0mQ.show_C8p0e
 youku.com##.g-authentication_lHADz
 youku.com##.change-skin_1dp97
+youku.com##.report_2SyuQ
 zhihu.com##.Footer
