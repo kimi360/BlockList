@@ -12,3 +12,5 @@ jianshu.com##._13lIbp
 jianshu.com##.icp
 !详情页底部评论框
 jianshu.com##._2xr8G8
+!头部菜单下载app按钮
+jianshu.com##a[href="/apps?utm_medium=desktop&utm_source=navbar-apps"]
