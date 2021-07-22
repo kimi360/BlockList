@@ -3,6 +3,5 @@
 taobao.com##.tbh-qr-wrapper
 !首页热搜关键字
 taobao.com##.search-hots
-!页脚的body和foot
-taobao.com##.tb-footer-bd
-taobao.com##.tb-footer-ft
+!页脚
+taobao.com###J_SiteFooter
