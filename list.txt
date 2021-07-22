@@ -86,6 +86,10 @@ item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-qrcode
 item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-feedback
 miaosha.jd.com##.sk_mod_er_mobile
 passport.jd.com##.tips-wrapper
+jianshu##._3Qa4dn5YlokOkxn6RsnEsL_0
+jianshu##._1F7CTF
+jianshu##._1jKNin
+jianshu##._3Pnjry
 kaola.com###topnotice
 kaola.com###topNavLeft2
 kaola.com##.cinform.f-hkdn.f-hkdnact
