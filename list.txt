@@ -108,6 +108,7 @@ smzdm.com##a[href="https://www.zhidemai.com"]
 smzdm.com##a[href="https://shangjia.smzdm.com/"]
 smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(3)
 smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(5)
+smzdm.com##.co_login
 smzdm.com###content > div > div > div:nth-child(2) > div.read > div.must-read
 smzdm.com###content > div > div > div:nth-child(2) > div.read > div.video-view
 smzdm.com##.merchants-reported.z-clearfix
