@@ -13,6 +13,8 @@ baidu.com##a[href="https://www.hao123.com"]
 baidu.com##a[href="https://live.baidu.com/"]
 !头部菜单-视频
 baidu.com##a[href="https://haokan.baidu.com/?sfrom=baidu-top"]
+!右上角天气
+baidu.com##.s-weather-wrapper
 !登录页下载二维码
 passport.baidu.com##.app-download-link
 !移动端推荐内容
