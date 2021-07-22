@@ -12,4 +12,3 @@ iplaysoft.com##.ft_info
 iplaysoft.com##.post_wechat_qr
 !详情页打赏页面
 iplaysoft.com##.donate
-!----------------

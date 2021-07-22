@@ -17,4 +17,3 @@ baidu.com##a[href="https://haokan.baidu.com/?sfrom=baidu-top"]
 passport.baidu.com##.app-download-link
 !移动端推荐内容
 baidu.com##.blank-frame
-!----------------

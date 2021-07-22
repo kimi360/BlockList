@@ -14,4 +14,3 @@ kaola.com##.bottomImg
 !首页页脚服务及版权信息
 kaola.com###aboutNEST
 kaola.com###btmlist
-!----------------
