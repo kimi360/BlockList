@@ -120,7 +120,9 @@ sspai.com##.icon_box
 sspai.com##.ssp_text
 taobao.com##.tbh-qr-wrapper
 taobao.com##.search-hots
-taobao.com###J_SiteFooter
+taobao.com##.tb-footer-hd
+taobao.com##.tb-footer-bd
+taobao.com##.tb-footer-ft
 iam.wasu.cn##div.pop-up.open
 youku.com##.info-bottom_3C0mQ.show_C8p0e
 youku.com##.g-authentication_lHADz
