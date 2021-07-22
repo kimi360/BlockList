@@ -93,6 +93,7 @@ jianshu.com##._3Pnjry
 jianshu.com##._13lIbp
 jianshu.com##.icp
 jianshu.com##._2xr8G8
+jianshu.com##a[href="/apps?utm_medium=desktop&utm_source=navbar-apps"]
 kaola.com###topnotice
 kaola.com###topNavLeft2
 kaola.com##.cinform.f-hkdn.f-hkdnact
