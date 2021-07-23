@@ -11,3 +11,5 @@ iqiyi.com##div[data-block-v2="910191_cainixihuan"]
 !首页侧边栏新片、为你推荐
 iqiyi.com##div.qy-float-anchor > ul > li:nth-child(4)
 iqiyi.com##div.qy-float-anchor > ul > li:nth-child(8)
+!页脚ICP信息
+iqiyi.com##.footer-law
