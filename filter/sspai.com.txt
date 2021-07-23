@@ -2,3 +2,5 @@
 !侧边社交媒体图标、版权信息
 sspai.com##.icon_box
 sspai.com##.ssp_text
+!文章左侧边栏
+sspai.com##.article-side
