@@ -58,6 +58,13 @@ iplaysoft.com###sidebar > ul > div
 iplaysoft.com##.ft_info
 iplaysoft.com##.post_wechat_qr
 iplaysoft.com##.donate
+iqiyi.com###nav_game
+iqiyi.com###nav_appDown
+iqiyi.com###block-pcw_home_coming
+iqiyi.com##div[data-block-v2="712211_wangluodianying"]
+iqiyi.com##div[data-block-v2="910191_cainixihuan"]
+iqiyi.com##div.qy-float-anchor > ul > li:nth-child(4)
+iqiyi.com##div.qy-float-anchor > ul > li:nth-child(8)
 jd.com###J_promotional-top
 jd.com###o-header-2013
 jd.com##.mobile_static
