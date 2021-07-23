@@ -65,6 +65,7 @@ iqiyi.com##div[data-block-v2="712211_wangluodianying"]
 iqiyi.com##div[data-block-v2="910191_cainixihuan"]
 iqiyi.com##div.qy-float-anchor > ul > li:nth-child(4)
 iqiyi.com##div.qy-float-anchor > ul > li:nth-child(8)
+iqiyi.com##.footer-law
 jd.com###J_promotional-top
 jd.com###o-header-2013
 jd.com##.mobile_static
