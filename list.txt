@@ -145,6 +145,7 @@ m.smzdm.com##.sub-banner
 m.smzdm.com##.footer-banner
 sspai.com##.icon_box
 sspai.com##.ssp_text
+sspai.com##.article-side
 taobao.com##.tbh-qr-wrapper
 taobao.com##.search-hots
 taobao.com##.tb-footer.tb-footer-with-logo
