@@ -14,6 +14,8 @@ jianshu.com###index-aside-download-qrbox
 jianshu.com##.icp
 !详情页文章标题下的作者信息
 jianshu.com##.rEsl9f
+!详情页文章底部推荐阅读
+jianshu.com##.ouvJEz:last-child
 !详情页底部评论框
 jianshu.com##._2xr8G8
 !头部菜单下载app按钮
