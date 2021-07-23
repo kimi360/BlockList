@@ -88,6 +88,7 @@ miaosha.jd.com##.sk_mod_er_mobile
 passport.jd.com##.tips-wrapper
 jianshu.com##._3Qa4dn5YlokOkxn6RsnEsL_0
 jianshu.com##._1F7CTF
+jianshu.com##.fa8byxiLG1y_kbW7CHjYk_0
 jianshu.com##._1jKNin
 jianshu.com##._3Pnjry
 jianshu.com##._13lIbp
