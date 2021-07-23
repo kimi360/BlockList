@@ -131,6 +131,7 @@ smzdm.com###content > div > div > div:nth-child(2) > div.read > div.must-read
 smzdm.com###content > div > div > div:nth-child(2) > div.read > div.video-view
 smzdm.com##.merchants-reported.z-clearfix
 smzdm.com##.yueRul
+post.smzdm.com##li[data-type="talent"]
 post.smzdm.com##.xiewenzhang
 m.smzdm.com##.sub-banner
 m.smzdm.com##.footer-banner
