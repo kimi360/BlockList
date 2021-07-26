@@ -12,6 +12,10 @@ jd.com###shortcut > div > ul.fr > li:nth-child(8)
 jd.com###shortcut > div > ul.fr > li:nth-child(9)
 jd.com###shortcut > div > ul.fr > li:nth-child(14)
 jd.com###shortcut > div > ul.fr > li:nth-child(15)
+!首页头部右侧banner
+jd.com###J_promo_lk
+!首页分类左侧banner
+jd.com###J_fs_act_lk
 !首页发现好货
 jd.com###J_niceGoods
 !首页为你推荐
