@@ -88,6 +88,7 @@ jd.com###shortcut-2014 > div > ul.fr > li:nth-child(9)
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(14)
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(15)
 jd.com##a[href="https://paimai.jd.com/"]
+jd.hk###hotwords-2014
 item.jd.com###choose-service
 item.jd.com###choose-baitiao
 item.jd.com###shopRecSuit
