@@ -74,6 +74,8 @@ jd.com###shortcut > div > ul.fr > li:nth-child(8)
 jd.com###shortcut > div > ul.fr > li:nth-child(9)
 jd.com###shortcut > div > ul.fr > li:nth-child(14)
 jd.com###shortcut > div > ul.fr > li:nth-child(15)
+jd.com###J_promo_lk
+jd.com###J_fs_act_lk
 jd.com###J_niceGoods
 jd.com###J_feeds
 jd.com##.elevator_list > li:nth-child(4)
