@@ -35,6 +35,8 @@ jd.com###shortcut-2014 > div > ul.fr > li:nth-child(14)
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(15)
 !头部拍卖按钮
 jd.com##a[href="https://paimai.jd.com/"]
+!国际首页搜索栏热搜关键词
+jd.hk###hotwords-2014
 !详情页选择服务、白条分期
 item.jd.com###choose-service
 item.jd.com###choose-baitiao
