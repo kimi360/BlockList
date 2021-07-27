@@ -1,0 +1,7 @@
+!----视频解析----
+!头部广告图片
+ctrlqq.com##img[src="https://www.ctrlqq.com/static/ba5.png"]
+!视频框下赞助按钮
+ctrlqq.com##.am-text-right
+!页脚
+ctrlqq.com##.foot
