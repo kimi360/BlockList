@@ -12,6 +12,7 @@
 163.com###js_logined_suggest > li:nth-child(7)
 163.com###js_logined_suggest > li:nth-child(8)
 163.com##.mod_channel.mod_bohezhibo
+163.com##.mod_hongcai
 163.com##.mod_synthesis_hongcai
 163.com##.mod_channel.mod_lofter
 163.com##.mod_channel.mod_yunread
