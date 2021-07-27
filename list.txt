@@ -99,6 +99,7 @@ item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-qrcode
 item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-feedback
 miaosha.jd.com##.sk_mod_er_mobile
 passport.jd.com##.tips-wrapper
+passport.jd.com##.q-link
 jianshu.com##._3Qa4dn5YlokOkxn6RsnEsL_0
 jianshu.com##._1F7CTF
 jianshu.com##.fa8byxiLG1y_kbW7CHjYk_0
