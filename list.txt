@@ -89,6 +89,7 @@ jd.com###shortcut-2014 > div > ul.fr > li:nth-child(9)
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(14)
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(15)
 jd.com##a[href="https://paimai.jd.com/"]
+jd.com##a[href="https://www.jdcloud.com/cn/pages/618cloud%20?utm_source=MO_jdsc0618&utm_medium=banner&utm_campaign=ggw&utm_term=NA"]
 jd.hk###hotwords-2014
 item.jd.com###choose-service
 item.jd.com###choose-baitiao
