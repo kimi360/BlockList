@@ -33,8 +33,9 @@ jd.com###shortcut-2014 > div > ul.fr > li:nth-child(8)
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(9)
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(14)
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(15)
-!头部拍卖按钮
+!头部拍卖、京东云按钮
 jd.com##a[href="https://paimai.jd.com/"]
+jd.com##a[href="https://www.jdcloud.com/cn/pages/618cloud%20?utm_source=MO_jdsc0618&utm_medium=banner&utm_campaign=ggw&utm_term=NA"]
 !国际首页搜索栏热搜关键词
 jd.hk###hotwords-2014
 !详情页选择服务、白条分期
