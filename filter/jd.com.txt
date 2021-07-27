@@ -52,3 +52,5 @@ item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-feedback
 miaosha.jd.com##.sk_mod_er_mobile
 !登录页提醒信息
 passport.jd.com##.tips-wrapper
+!登录页调查问卷
+passport.jd.com##.q-link
