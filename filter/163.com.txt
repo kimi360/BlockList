@@ -15,8 +15,9 @@
 163.com###js_logined_suggest > li:nth-child(5)
 163.com###js_logined_suggest > li:nth-child(7)
 163.com###js_logined_suggest > li:nth-child(8)
-!页面-公版计划、竞彩预测、lofter、lofter精选
+!页面-公版计划、红彩专家、竞彩预测、lofter、lofter精选
 163.com##.mod_channel.mod_bohezhibo
+163.com##.mod_hongcai
 163.com##.mod_synthesis_hongcai
 163.com##.mod_channel.mod_lofter
 163.com##.mod_channel.mod_yunread
