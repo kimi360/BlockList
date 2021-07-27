@@ -147,6 +147,7 @@ smzdm.com##.merchants-reported.z-clearfix
 smzdm.com##.yueRul
 post.smzdm.com##li[data-type="talent"]
 post.smzdm.com##.xiewenzhang
+faxian.smzdm.com##.update-tip
 m.smzdm.com##.sub-banner
 m.smzdm.com##.footer-banner
 sspai.com##.icon_box
