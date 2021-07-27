@@ -19,9 +19,10 @@ smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(4)
 !头部菜单-集团官网、值品牌计划
 smzdm.com##a[href="https://www.zhidemai.com"]
 smzdm.com##a[href="https://shangjia.smzdm.com/"]
-!排行榜-达人、品牌
-smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(3)
+!排行榜-达人、百科、品牌
+smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(4)
 smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(5)
+smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(6)
 !登录页第三方登录按钮
 smzdm.com##.co_login
 !爆料页爆料必读、视频讲解、商家爆料须知、管理规范
