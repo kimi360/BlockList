@@ -52,6 +52,9 @@ bilibili.com##.van-popover.van-popper
 bilibili.com##.footer_right
 bilibili.com##.partner.b-footer-wrap
 conoha.jp##.gmoGroupHeader.gmoGroupHeader-keepdistance
+ctrlqq.com##img[src="https://www.ctrlqq.com/static/ba5.png"]
+ctrlqq.com##.am-text-right
+ctrlqq.com##.foot
 iplaysoft.com###section_postbanner
 iplaysoft.com###postlist > div:nth-child(2)
 iplaysoft.com###postlist > div.wwads-cn.wwads-horizontal
