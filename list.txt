@@ -48,6 +48,7 @@ bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(5)
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(7)
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(8)
+bilibili.com##div.nav-user-center > div:nth-child(2) > div:nth-child(2)
 bilibili.com##.footer_right
 bilibili.com##.partner.b-footer-wrap
 conoha.jp##.gmoGroupHeader.gmoGroupHeader-keepdistance
