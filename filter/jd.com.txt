@@ -41,6 +41,8 @@ jd.hk###hotwords-2014
 !详情页选择服务、白条分期
 item.jd.com###choose-service
 item.jd.com###choose-baitiao
+!详情页店铺banner
+item.jd.com##div.layout-one > div.fn-clear:nth-child(2)
 !详情页店长推荐
 item.jd.com###shopRecSuit
 !详情页关联购买
