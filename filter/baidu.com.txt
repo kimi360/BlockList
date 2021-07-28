@@ -15,7 +15,9 @@ baidu.com##a[href="https://live.baidu.com/"]
 baidu.com##a[href="https://haokan.baidu.com/?sfrom=baidu-top"]
 !右上角天气
 baidu.com##.s-weather-wrapper
-!登录页下载二维码
-passport.baidu.com##.app-download-link
 !移动端推荐内容
 baidu.com##.blank-frame
+!登录页下载二维码
+passport.baidu.com##.app-download-link
+!知道页面右侧任务按钮
+zhidao.baidu.com##.task-list-button
