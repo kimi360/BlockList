@@ -5,8 +5,9 @@ bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(5)
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(7)
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(8)
-!首页头部右侧大会员
-bilibili.com##div.nav-user-center > div:nth-child(2) > div:nth-child(2)
+!首页头部右侧菜单大会员、动态
+bilibili.com##div.nav-user-center > div.user-con.signin > div:nth-child(2)
+bilibili.com##div.nav-user-center > div.user-con.signin > div:nth-child(4)
 !页脚右侧社交软件相关图标
 bilibili.com##.footer_right
 !页脚网站信息及合作机构
