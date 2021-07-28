@@ -130,6 +130,8 @@ lizhi.io##.copyright-bottom
 lizhi.io##.friend-links
 lizhi.io##div[x-data="{}"]
 store.lizhi.io##._bem-footer__hint
+sex8.cc###conn_box > div.warning.hidden:nth-child(5)
+sex8.cc###conn_box > div.warn_pannel.hidden:last-child
 smzdm.com###search-form > .hot-words
 smzdm.com###footer
 smzdm.com##.footer-floating-layer
