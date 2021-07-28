@@ -5,6 +5,9 @@ bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(5)
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(7)
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(8)
+!首页头部右侧菜单大会员、动态
+bilibili.com##div.nav-user-center > div:nth-child(2) > div:nth-child(2)
+bilibili.com##div.nav-user-center > div:nth-child(2) > span:nth-child(4)
 !登录popup框
 bilibili.com##.van-popover.van-popper
 !页脚右侧社交软件相关图标
