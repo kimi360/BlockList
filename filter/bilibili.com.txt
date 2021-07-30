@@ -16,6 +16,10 @@ bilibili.com###reportFirst2
 bilibili.com###reportFirst3
 !首页特别推荐
 bilibili.com###bili_report_spe_rec
+!首页正在直播
+bilibili.com###bili_report_live
+!侧边电梯直播按钮
+bilibili.com##.item.sortable:nth-child(1)
 !页脚右侧社交软件相关图标
 bilibili.com##.footer_right
 !页脚网站信息及合作机构
