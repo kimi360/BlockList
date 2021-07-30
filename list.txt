@@ -55,6 +55,8 @@ bilibili.com##.contact-help
 bilibili.com###reportFirst2
 bilibili.com###reportFirst3
 bilibili.com###bili_report_spe_rec
+bilibili.com###bili_report_live
+bilibili.com##.item.sortable:nth-child(1)
 bilibili.com##.footer_right
 bilibili.com##.partner.b-footer-wrap
 conoha.jp##.gmoGroupHeader.gmoGroupHeader-keepdistance
