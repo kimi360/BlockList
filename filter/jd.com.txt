@@ -56,3 +56,7 @@ miaosha.jd.com##.sk_mod_er_mobile
 passport.jd.com##.tips-wrapper
 !登录页调查问卷
 passport.jd.com##.q-link
+!店铺页左下角二维码
+mall.jd.com##.jTdCode.fixed
+!店铺页右侧快递车图标
+mall.jd.com##.s-delivery.J_deliveryWrap
