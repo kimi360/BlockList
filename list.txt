@@ -113,8 +113,6 @@ item.jd.com###fittings
 item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-qrcode
 item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-feedback
 miaosha.jd.com##.sk_mod_er_mobile
-miaosha.jd.com###moregoods
-miaosha.jd.com##.sk_mod_er_item:nth-child(2)
 miaosha.jd.com###bttwobanner
 passport.jd.com##.tips-wrapper
 passport.jd.com##.q-link
