@@ -52,10 +52,6 @@ item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-qrcode
 item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-feedback
 !秒杀页侧边栏二维码
 miaosha.jd.com##.sk_mod_er_mobile
-!秒杀页更多好货
-miaosha.jd.com###moregoods
-!秒杀页侧边电梯更多好货
-miaosha.jd.com##.sk_mod_er_item:nth-child(2)
 !秒杀页底部品类描述banner
 miaosha.jd.com###bttwobanner
 !登录页提醒信息
