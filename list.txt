@@ -164,6 +164,7 @@ smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-hea
 smzdm.com##.co_login
 smzdm.com###content > div > div > div:nth-child(2) > div.read > div.must-read
 smzdm.com###content > div > div > div:nth-child(2) > div.read > div.video-view
+smzdm.com##.sh-content
 smzdm.com##.merchants-reported.z-clearfix
 smzdm.com##.yueRul
 post.smzdm.com##li[data-type="talent"]
