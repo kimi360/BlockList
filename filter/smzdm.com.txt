@@ -25,9 +25,10 @@ smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-hea
 smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(6)
 !登录页第三方登录按钮
 smzdm.com##.co_login
-!爆料页爆料必读、视频讲解、商家爆料须知、管理规范
+!爆料页爆料必读、视频讲解、文字提示、商家爆料须知、管理规范
 smzdm.com###content > div > div > div:nth-child(2) > div.read > div.must-read
 smzdm.com###content > div > div > div:nth-child(2) > div.read > div.video-view
+smzdm.com##.sh-content
 smzdm.com##.merchants-reported.z-clearfix
 smzdm.com##.yueRul
 !好文首页达人榜
