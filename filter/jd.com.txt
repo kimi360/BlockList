@@ -50,6 +50,8 @@ item.jd.com###fittings
 !详情页侧边栏二维码、反馈按钮
 item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-qrcode
 item.jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-feedback
+!秒杀页头部banner
+miaosha.jd.com###seckillbanner
 !秒杀页侧边栏二维码
 miaosha.jd.com##.sk_mod_er_mobile
 !秒杀页底部品类描述banner
