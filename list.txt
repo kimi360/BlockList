@@ -50,6 +50,8 @@ bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(5)
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(7)
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(8)
+bilibili.com##div.nav-user-center > div[class='user-con'] > div:nth-child(2)
+bilibili.com##div.nav-user-center > div[class='user-con'] > span:nth-child(4)
 bilibili.com##div.nav-user-center > div.user-con.signin > div:nth-child(2)
 bilibili.com##div.nav-user-center > div.user-con.signin > div:nth-child(4)
 bilibili.com##.contact-help
