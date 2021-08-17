@@ -8,8 +8,8 @@ bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(7)
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(8)
 !首页头部右侧菜单大会员、动态
-bilibili.com##div.nav-user-center > div.user-con > div:nth-child(2)
-bilibili.com##div.nav-user-center > div.user-con > div:nth-child(4)
+bilibili.com##div.nav-user-center > div.user-con.signin > div:nth-child(2)
+bilibili.com##div.nav-user-center > div.user-con.signin > div:nth-child(4)
 !首页左侧联系客服按钮
 bilibili.com##.contact-help
 !首页推广
