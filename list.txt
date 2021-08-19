@@ -41,6 +41,8 @@ baidu.com##a[href="https://www.hao123.com"]
 baidu.com##a[href="https://live.baidu.com/"]
 baidu.com##a[href="https://haokan.baidu.com/?sfrom=baidu-top"]
 baidu.com##.s-weather-wrapper
+baidu.com##.s-tab-item.s-tab-news
+baidu.com##.s-tab-item.s-tab-b2b
 baidu.com##.blank-frame
 passport.baidu.com##.app-download-link
 zhidao.baidu.com##.task-list-button
