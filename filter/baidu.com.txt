@@ -15,6 +15,9 @@ baidu.com##a[href="https://live.baidu.com/"]
 baidu.com##a[href="https://haokan.baidu.com/?sfrom=baidu-top"]
 !右上角天气
 baidu.com##.s-weather-wrapper
+!搜索结果页资讯、采购tab
+baidu.com##.s-tab-item.s-tab-news
+baidu.com##.s-tab-item.s-tab-b2b
 !移动端推荐内容
 baidu.com##.blank-frame
 !登录页下载二维码
