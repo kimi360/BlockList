@@ -62,6 +62,11 @@ bilibili.com###bili_report_live
 bilibili.com##.item.sortable:nth-child(1)
 bilibili.com##.footer_right
 bilibili.com##.partner.b-footer-wrap
+bilibili.com##.head-logo
+bilibili.com###danmukuBox
+bilibili.com###right-bottom-banner
+bilibili.com###live_recommand_report
+bilibili.com##.comment-send-lite
 conoha.jp##.gmoGroupHeader.gmoGroupHeader-keepdistance
 ctrlqq.com##.aim-topbar-nav
 ctrlqq.com##.aim-topbar-right
