@@ -28,3 +28,13 @@ bilibili.com##.item.sortable:nth-child(1)
 bilibili.com##.footer_right
 !页脚网站信息及合作机构
 bilibili.com##.partner.b-footer-wrap
+!首页头部logo
+bilibili.com##.head-logo
+!详情页右侧头部弹幕列表
+bilibili.com###danmukuBox
+!详情页右侧底部bannner
+bilibili.com###right-bottom-banner
+!详情页右侧底部大家围观的直播
+bilibili.com###live_recommand_report
+!详情页底部快速发表评论
+bilibili.com##.comment-send-lite
