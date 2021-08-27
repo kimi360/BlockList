@@ -47,6 +47,8 @@ baidu.com##.blank-frame
 passport.baidu.com##.app-download-link
 zhidao.baidu.com##.task-list-button
 bilibili.com##.van-popover.van-popper:has(.unlogin-popover.unlogin-popover-avatar)
+bilibili.com##.animated-banner > div:nth-child(1)
+bilibili.com##.animated-banner > div:nth-child(2)
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(3)
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(4)
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(5)
