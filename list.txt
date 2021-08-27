@@ -50,6 +50,8 @@ bilibili.com##.van-popover.van-popper:has(.unlogin-popover.unlogin-popover-avata
 bilibili.com#$#.bili-banner{ height: 60px!important;min-height: 60px!important;background-color: #73c9e5!important }
 bilibili.com##.animated-banner > div:nth-child(1)
 bilibili.com##.animated-banner > div:nth-child(2)
+||i0.hdslb.com/bfs/archive/b60151347754f0089489d7d68271233960a8d52f.png$empty
+||i0.hdslb.com/bfs/vc/839af78322450ea0eb6dbb1d19889d831862804f.png$empty
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(3)
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(4)
 bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(5)
