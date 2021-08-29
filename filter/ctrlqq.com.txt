@@ -4,7 +4,7 @@ ctrlqq.com##.aim-topbar-nav
 !菜单栏右侧捐助按钮
 ctrlqq.com##.aim-topbar-right
 !头部广告图片
-ctrlqq.com##img[src="https://www.ctrlqq.com/static/ba5.png"]
+ctrlqq.com##.STYLE1
 !视频框下赞助按钮
 ctrlqq.com##.am-text-right
 !页脚
