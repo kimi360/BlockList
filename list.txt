@@ -77,7 +77,7 @@ bilibili.com##.comment-send-lite
 conoha.jp##.gmoGroupHeader.gmoGroupHeader-keepdistance
 ctrlqq.com##.aim-topbar-nav
 ctrlqq.com##.aim-topbar-right
-ctrlqq.com##img[src="https://www.ctrlqq.com/static/ba5.png"]
+ctrlqq.com##.STYLE1
 ctrlqq.com##.am-text-right
 ctrlqq.com##.foot
 iplaysoft.com###section_postbanner
