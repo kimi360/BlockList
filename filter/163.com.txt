@@ -1,4 +1,6 @@
 !------网易------
+!头部进入关怀模式连接
+163.com##.ntes-nav-care
 !头部左侧侧多余菜单-网易红彩、邮箱大师、网页云课堂
 163.com###js_N_nav > div > div.c-fl > div > div > ul > li:nth-child(3)
 163.com###js_N_nav > div > div.c-fl > div > div > ul > li:nth-child(5)
