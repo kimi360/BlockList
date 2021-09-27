@@ -45,6 +45,8 @@ baidu.com##.s-weather-wrapper
 baidu.com##.s-tab-item.s-tab-news
 baidu.com##.s-tab-item.s-tab-b2b
 baidu.com##.blank-frame
+baidu.com##a[class="index-banner    square-banner-bgicon  "]
+baidu.com##div[style="overflow: hidden;background: #fff;"]
 passport.baidu.com##.app-download-link
 zhidao.baidu.com##.task-list-button
 bilibili.com##.van-popover.van-popper:has(.unlogin-popover.unlogin-popover-avatar)
