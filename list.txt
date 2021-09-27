@@ -47,6 +47,7 @@ baidu.com##.s-tab-item.s-tab-b2b
 baidu.com##.blank-frame
 baidu.com##a[class="index-banner    square-banner-bgicon  "]
 baidu.com##div[style="overflow: hidden;background: #fff;"]
+baidu.com##div[class="w-row w-row-align-center w-row-justify-between nav-bar"]
 passport.baidu.com##.app-download-link
 zhidao.baidu.com##.task-list-button
 bilibili.com##.van-popover.van-popper:has(.unlogin-popover.unlogin-popover-avatar)
