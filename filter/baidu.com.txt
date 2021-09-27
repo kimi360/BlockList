@@ -24,6 +24,8 @@ baidu.com##.blank-frame
 baidu.com##a[class="index-banner    square-banner-bgicon  "]
 !移动端搜索框下banner
 baidu.com##div[style="overflow: hidden;background: #fff;"]
+!移动端百度贴吧客户端Banner
+baidu.com##div[class="w-row w-row-align-center w-row-justify-between nav-bar"]
 !登录页下载二维码
 passport.baidu.com##.app-download-link
 !知道页面右侧任务按钮
