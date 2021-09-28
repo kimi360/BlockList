@@ -45,7 +45,8 @@ baidu.com##.s-weather-wrapper
 baidu.com##.s-tab-item.s-tab-news
 baidu.com##.s-tab-item.s-tab-b2b
 passport.baidu.com##.app-download-link
-zhidao.baidu.com##.task-list-button、
+zhidao.baidu.com##.task-list-button
+||webmap0.bdimg.com/wolfman/static/common/widget/ui/Popup/Popup_21381d4.js
 bilibili.com##.van-popover.van-popper:has(.unlogin-popover.unlogin-popover-avatar)
 bilibili.com#$#.bili-banner{ height: 60px!important;min-height: 60px!important;background-color: #73c9e5!important }
 bilibili.com##.animated-banner > div:nth-child(1)
