@@ -45,7 +45,7 @@ baidu.com##.s-weather-wrapper
 baidu.com##.s-tab-item.s-tab-news
 baidu.com##.s-tab-item.s-tab-b2b
 baidu.com##.blank-frame
-baidu.com##a[class="index-banner    square-banner-bgicon  "]
+||sm.bdimg.com/static/wiseindex/js/package/newsActivity_a384c03.js
 baidu.com##div[style="overflow: hidden;background: #fff;"]
 baidu.com##div[class="w-row w-row-align-center w-row-justify-between nav-bar"]
 baidu.com#$#body[class="switch-iphone baidu"]{ background-color: #ffffff!important }
