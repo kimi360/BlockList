@@ -11,7 +11,7 @@ baidu.com###bottom
 !移动端右上2021国庆惠玩季
 ||sm.bdimg.com/static/wiseindex/js/package/newsActivity_a384c03.js
 !移动端搜索框下banner
-||sm.bdimg.com/static/wiseindex/amd_modules/@searchfe/assert_3ed54c3.js
+!影响搜索功能||sm.bdimg.com/static/wiseindex/amd_modules/@searchfe/assert_3ed54c3.js
 !移动端搜索结果页去除底部应用打开banner
 ||mss0.bdstatic.com/se/static/amd_modules/@baidu/invoke-shield_12351e7.js
 !移动端广告图片
