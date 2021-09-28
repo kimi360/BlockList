@@ -1,6 +1,7 @@
 ! Title: Kimi's adblock list for mobile
 ! Expires: 1 day (update frequency)
 baidu.com##.blank-frame
+baidu.com##div[style="overflow: hidden;background: #fff;"]
 baidu.com##div[class="w-row w-row-align-center w-row-justify-between nav-bar"]
 baidu.com#$#body[class="switch-iphone baidu"]{ background-color: #ffffff!important }
 baidu.com###bottom
