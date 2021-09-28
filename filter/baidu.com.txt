@@ -21,4 +21,6 @@ baidu.com##.s-tab-item.s-tab-b2b
 !登录页下载二维码
 passport.baidu.com##.app-download-link
 !知道页面右侧任务按钮
-zhidao.baidu.com##.task-list-button、
+zhidao.baidu.com##.task-list-button
+!地图右上角消息中心弹框
+||webmap0.bdimg.com/wolfman/static/common/widget/ui/Popup/Popup_21381d4.js
