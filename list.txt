@@ -50,6 +50,7 @@ baidu.com##div[style="overflow: hidden;background: #fff;"]
 baidu.com##div[class="w-row w-row-align-center w-row-justify-between nav-bar"]
 baidu.com#$#body[class="switch-iphone baidu"]{ background-color: #ffffff!important }
 baidu.com###bottom
+||mss0.bdstatic.com/se/static/amd_modules/@baidu/invoke-shield_12351e7.js
 passport.baidu.com##.app-download-link
 zhidao.baidu.com##.task-list-button
 bilibili.com##.van-popover.van-popper:has(.unlogin-popover.unlogin-popover-avatar)
