@@ -45,14 +45,16 @@ baidu.com##.s-weather-wrapper
 baidu.com##.s-tab-item.s-tab-news
 baidu.com##.s-tab-item.s-tab-b2b
 baidu.com##.blank-frame
-||sm.bdimg.com/static/wiseindex/js/package/newsActivity_a384c03.js
-||sm.bdimg.com/static/wiseindex/amd_modules/@searchfe/assert_3ed54c3.js
 baidu.com##div[class="w-row w-row-align-center w-row-justify-between nav-bar"]
 baidu.com#$#body[class="switch-iphone baidu"]{ background-color: #ffffff!important }
 baidu.com###bottom
-||mss0.bdstatic.com/se/static/amd_modules/@baidu/invoke-shield_12351e7.js
 passport.baidu.com##.app-download-link
-zhidao.baidu.com##.task-list-button
+zhidao.baidu.com##.task-list-button、
+||sm.bdimg.com/static/wiseindex/js/package/newsActivity_a384c03.js
+||sm.bdimg.com/static/wiseindex/amd_modules/@searchfe/assert_3ed54c3.js
+||mss0.bdstatic.com/se/static/amd_modules/@baidu/invoke-shield_12351e7.js
+||search-operate.cdn.bcebos.com/ae422299c68c85b64cb5b2d39a74f2fd.png
+||search-operate.cdn.bcebos.com/fd1045262d2b37b02489a4402d392ffa.png
 bilibili.com##.van-popover.van-popper:has(.unlogin-popover.unlogin-popover-avatar)
 bilibili.com#$#.bili-banner{ height: 60px!important;min-height: 60px!important;background-color: #73c9e5!important }
 bilibili.com##.animated-banner > div:nth-child(1)
