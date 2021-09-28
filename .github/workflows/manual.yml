@@ -10,6 +10,7 @@ jobs:
     - uses: actions/checkout@master
     - name: Generate block list
       run: cat filter/00head.info > list.txt && awk '{print}' filter/*.txt | grep -v '^!' >> list.txt
+      run: cat mobile/00head.info > list.txt && awk '{print}' mobile/*.txt | grep -v '^!' >> mlist.txt
     - name: Commit changes
       uses: EndBug/add-and-commit@master
       with:

@@ -18,25 +18,7 @@ baidu.com##.s-weather-wrapper
 !搜索结果页资讯、采购tab
 baidu.com##.s-tab-item.s-tab-news
 baidu.com##.s-tab-item.s-tab-b2b
-!移动端推荐内容
-baidu.com##.blank-frame
-!移动端百度贴吧客户端Banner
-baidu.com##div[class="w-row w-row-align-center w-row-justify-between nav-bar"]
-!移动端设置背景色
-baidu.com#$#body[class="switch-iphone baidu"]{ background-color: #ffffff!important }
-!移动端去除底部
-baidu.com###bottom
 !登录页下载二维码
 passport.baidu.com##.app-download-link
 !知道页面右侧任务按钮
 zhidao.baidu.com##.task-list-button、
-!资源文件
-!移动端右上2021国庆惠玩季
-||sm.bdimg.com/static/wiseindex/js/package/newsActivity_a384c03.js
-!移动端搜索框下banner
-||sm.bdimg.com/static/wiseindex/amd_modules/@searchfe/assert_3ed54c3.js
-!移动端搜索结果页去除底部应用打开banner
-||mss0.bdstatic.com/se/static/amd_modules/@baidu/invoke-shield_12351e7.js
-!移动端广告图片
-||search-operate.cdn.bcebos.com/ae422299c68c85b64cb5b2d39a74f2fd.png
-||search-operate.cdn.bcebos.com/fd1045262d2b37b02489a4402d392ffa.png
