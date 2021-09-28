@@ -30,6 +30,8 @@ baidu.com##div[class="w-row w-row-align-center w-row-justify-between nav-bar"]
 baidu.com#$#body[class="switch-iphone baidu"]{ background-color: #ffffff!important }
 !移动端去除底部
 baidu.com###bottom
+!移动端搜索结果页去除底部应用打开banner
+||mss0.bdstatic.com/se/static/amd_modules/@baidu/invoke-shield_12351e7.js
 !登录页下载二维码
 passport.baidu.com##.app-download-link
 !知道页面右侧任务按钮
