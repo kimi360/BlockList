@@ -11,7 +11,7 @@ jobs:
     - name: Generate block list(pc)
       run:  cat filter/00head.info > list.txt && awk '{print}' filter/*.txt | grep -v '^!' >> list.txt
     - name: Generate block list(mobile)
-      run:  cat mobile/00head.info > list.txt && awk '{print}' mobile/*.txt | grep -v '^!' >> mlist.txt
+      run:  cat mobile/00head.info > mlist.txt && awk '{print}' mobile/*.txt | grep -v '^!' >> mlist.txt
     - name: Commit changes
       uses: EndBug/add-and-commit@master
       with:
