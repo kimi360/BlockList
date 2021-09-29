@@ -1,0 +1,4 @@
+!移动端头部banner
+m.smzdm.com##.sub-banner
+!移动端底部banner
+m.smzdm.com##.footer-banner
