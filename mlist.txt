@@ -9,5 +9,6 @@ baidu.com###bottom
 ||mss0.bdstatic.com/se/static/amd_modules/@baidu/invoke-shield_12351e7.js
 ||search-operate.cdn.bcebos.com/ae422299c68c85b64cb5b2d39a74f2fd.png
 ||search-operate.cdn.bcebos.com/fd1045262d2b37b02489a4402d392ffa.png
+baidu.com#%#var auto = setInterval(function () { if ($('.popup-lead').css('display') === 'block') { $('.popup-lead-cancel').click(); console.log("runoob") clearInterval(auto); } }, 50);
 m.smzdm.com##.sub-banner
 m.smzdm.com##.footer-banner
