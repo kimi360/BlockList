@@ -37,7 +37,3 @@ post.smzdm.com##li[data-type="talent"]
 post.smzdm.com##.xiewenzhang
 !全部好价页面升级tips
 faxian.smzdm.com##.update-tip
-!移动端头部banner
-m.smzdm.com##.sub-banner
-!移动端底部banner
-m.smzdm.com##.footer-banner
