@@ -14,7 +14,10 @@ baidu.com###bottom
 ||sm.bdimg.com/static/wiseindex/js/package/newsActivity_a384c03.js
 !移动端搜索结果页去除底部应用打开banner
 ||mss0.bdstatic.com/se/static/amd_modules/@baidu/invoke-shield_12351e7.js
+!移动端搜索框下banner
 !影响搜索功能||sm.bdimg.com/static/wiseindex/amd_modules/@searchfe/assert_3ed54c3.js
+!弹出框
+||s.bdstatic.com/common/openjs/openBox.js
 !移动端广告图片
 ||search-operate.cdn.bcebos.com/ae422299c68c85b64cb5b2d39a74f2fd.png
 ||search-operate.cdn.bcebos.com/fd1045262d2b37b02489a4402d392ffa.png
