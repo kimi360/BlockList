@@ -21,6 +21,3 @@ baidu.com###bottom
 !移动端广告图片
 ||search-operate.cdn.bcebos.com/ae422299c68c85b64cb5b2d39a74f2fd.png
 ||search-operate.cdn.bcebos.com/fd1045262d2b37b02489a4402d392ffa.png
-!自动脚本
-!自动点击前往APP弹框取消按钮
-baidu.com#%#var auto = setInterval(function () { if ($('.popup-lead').css('display') === 'block') { $('.popup-lead-cancel').click(); console.log("runoob") clearInterval(auto); } }, 50);
