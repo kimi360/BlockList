@@ -1,46 +1,46 @@
 !----哔哩哔哩----
 !登录提示弹框
 bilibili.com##.van-popover.van-popper:has(.unlogin-popover.unlogin-popover-avatar)
-!修改头部高度为60px,去除碍事的banner,修改背景色为浅蓝色
-bilibili.com#$#.bili-banner{ height: 60px!important;min-height: 60px!important;background-color: #73c9e5!important }
-bilibili.com##.animated-banner > div:nth-child(1)
-bilibili.com##.animated-banner > div:nth-child(2)
-||i0.hdslb.com/bfs/archive/b60151347754f0089489d7d68271233960a8d52f.png$empty
-||i0.hdslb.com/bfs/vc/839af78322450ea0eb6dbb1d19889d831862804f.png$empty
-!首页头部左侧菜单游戏中心、直播、会员购、赛事、下载app
-bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(3)
-bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(4)
-bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(5)
-bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(7)
-bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(8)
-!首页头部右侧菜单大会员、动态(未登录/已登录)
-bilibili.com##div.nav-user-center > div[class='user-con'] > div:nth-child(2)
-bilibili.com##div.nav-user-center > div[class='user-con'] > span:nth-child(4)
-bilibili.com##div.nav-user-center > div.user-con.signin > div:nth-child(2)
-bilibili.com##div.nav-user-center > div.user-con.signin > div:nth-child(4)
-!首页左侧联系客服按钮
-bilibili.com##.contact-help
-!首页推广
-bilibili.com###reportFirst2
-!首页电竞赛事
-bilibili.com###reportFirst3
-!首页特别推荐
-bilibili.com###bili_report_spe_rec
-!首页正在直播
-bilibili.com###bili_report_live
-!侧边电梯直播按钮
-bilibili.com##.item.sortable:nth-child(1)
-!页脚右侧社交软件相关图标
-bilibili.com##.footer_right
-!页脚网站信息及合作机构
-bilibili.com##.partner.b-footer-wrap
-!首页头部logo
-bilibili.com##.head-logo
-!详情页右侧头部弹幕列表
-bilibili.com###danmukuBox
-!详情页右侧底部bannner
-bilibili.com###right-bottom-banner
-!详情页右侧底部大家围观的直播
-bilibili.com###live_recommand_report
-!详情页底部快速发表评论
-bilibili.com##.comment-send-lite
+!!修改头部高度为60px,去除碍事的banner,修改背景色为浅蓝色
+!bilibili.com#$#.bili-banner{ height: 60px!important;min-height: 60px!important;background-color: #73c9e5!important }
+!bilibili.com##.animated-banner > div:nth-child(1)
+!bilibili.com##.animated-banner > div:nth-child(2)
+!||i0.hdslb.com/bfs/archive/b60151347754f0089489d7d68271233960a8d52f.png$empty
+!||i0.hdslb.com/bfs/vc/839af78322450ea0eb6dbb1d19889d831862804f.png$empty
+!!首页头部左侧菜单游戏中心、直播、会员购、赛事、下载app
+!bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(3)
+!bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(4)
+!bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(5)
+!bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(7)
+!bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(8)
+!!首页头部右侧菜单大会员、动态(未登录/已登录)
+!bilibili.com##div.nav-user-center > div[class='user-con'] > div:nth-child(2)
+!bilibili.com##div.nav-user-center > div[class='user-con'] > span:nth-child(4)
+!bilibili.com##div.nav-user-center > div.user-con.signin > div:nth-child(2)
+!bilibili.com##div.nav-user-center > div.user-con.signin > div:nth-child(4)
+!!首页左侧联系客服按钮
+!bilibili.com##.contact-help
+!!首页推广
+!bilibili.com###reportFirst2
+!!首页电竞赛事
+!bilibili.com###reportFirst3
+!!首页特别推荐
+!bilibili.com###bili_report_spe_rec
+!!首页正在直播
+!bilibili.com###bili_report_live
+!!侧边电梯直播按钮
+!bilibili.com##.item.sortable:nth-child(1)
+!!页脚右侧社交软件相关图标
+!bilibili.com##.footer_right
+!!页脚网站信息及合作机构
+!bilibili.com##.partner.b-footer-wrap
+!!首页头部logo
+!bilibili.com##.head-logo
+!!详情页右侧头部弹幕列表
+!bilibili.com###danmukuBox
+!!详情页右侧底部bannner
+!bilibili.com###right-bottom-banner
+!!详情页右侧底部大家围观的直播
+!bilibili.com###live_recommand_report
+!!详情页底部快速发表评论
+!bilibili.com##.comment-send-lite
