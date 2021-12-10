@@ -48,33 +48,6 @@ passport.baidu.com##.app-download-link
 zhidao.baidu.com##.task-list-button
 ||webmap0.bdimg.com/wolfman/static/common/widget/ui/Popup/Popup_21381d4.js
 bilibili.com##.van-popover.van-popper:has(.unlogin-popover.unlogin-popover-avatar)
-bilibili.com#$#.bili-banner{ height: 60px!important;min-height: 60px!important;background-color: #73c9e5!important }
-bilibili.com##.animated-banner > div:nth-child(1)
-bilibili.com##.animated-banner > div:nth-child(2)
-||i0.hdslb.com/bfs/archive/b60151347754f0089489d7d68271233960a8d52f.png$empty
-||i0.hdslb.com/bfs/vc/839af78322450ea0eb6dbb1d19889d831862804f.png$empty
-bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(3)
-bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(4)
-bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(5)
-bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(7)
-bilibili.com##div.mini-header.m-header > div > div.nav-link > ul > li:nth-child(8)
-bilibili.com##div.nav-user-center > div[class='user-con'] > div:nth-child(2)
-bilibili.com##div.nav-user-center > div[class='user-con'] > span:nth-child(4)
-bilibili.com##div.nav-user-center > div.user-con.signin > div:nth-child(2)
-bilibili.com##div.nav-user-center > div.user-con.signin > div:nth-child(4)
-bilibili.com##.contact-help
-bilibili.com###reportFirst2
-bilibili.com###reportFirst3
-bilibili.com###bili_report_spe_rec
-bilibili.com###bili_report_live
-bilibili.com##.item.sortable:nth-child(1)
-bilibili.com##.footer_right
-bilibili.com##.partner.b-footer-wrap
-bilibili.com##.head-logo
-bilibili.com###danmukuBox
-bilibili.com###right-bottom-banner
-bilibili.com###live_recommand_report
-bilibili.com##.comment-send-lite
 conoha.jp##.gmoGroupHeader.gmoGroupHeader-keepdistance
 ctrlqq.com##.aim-topbar-nav
 ctrlqq.com##.aim-topbar-right
