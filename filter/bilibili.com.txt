@@ -1,6 +1,6 @@
-!----哔哩哔哩----
-!登录提示弹框
-bilibili.com##.van-popover.van-popper:has(.unlogin-popover.unlogin-popover-avatar)
+!!----哔哩哔哩----
+!!登录提示弹框
+!bilibili.com##.van-popover.van-popper:has(.unlogin-popover.unlogin-popover-avatar)
 !!修改头部高度为60px,去除碍事的banner,修改背景色为浅蓝色
 !bilibili.com#$#.bili-banner{ height: 60px!important;min-height: 60px!important;background-color: #73c9e5!important }
 !bilibili.com##.animated-banner > div:nth-child(1)
