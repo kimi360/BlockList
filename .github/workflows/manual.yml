@@ -14,7 +14,7 @@ jobs:
     - name: Generate block list(mobile)
       run:  cat mobile/00head.info > mlist.txt && awk '{print}' mobile/*.txt | grep -v '^!' >> mlist.txt
     - name: Commit changes
-      uses: EndBug/add-and-commit@V1
+      uses: EndBug/add-and-commit@v7.5.0
       with:
         author_name: kimi360
         author_email: kimi360@gamil.com
