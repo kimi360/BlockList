@@ -1,6 +1,8 @@
 !----哔哩哔哩----
-!去除banner上的logo
-bilibili.com##div.bili-header__banner > div.header-banner__inner > a.inner-logo
+!修改头部高度为60px,去除碍事的banner,修改背景色为浅蓝色
+bilibili.com#$#.bili-header__banner{ height: 60px!important;min-height: 60px!important;background-color: #73c9e5!important }
+bilibili.com###bili-header-banner-img
+bilibili.com##div.header-banner__inner
 !首页头部左侧菜单直播、游戏中心、会员购、赛事、看足球、下载app
 bilibili.com##div.bili-header__bar > ul.left-entry > li:nth-child(3)
 bilibili.com##div.bili-header__bar > ul.left-entry > li:nth-child(4)
