@@ -65,6 +65,7 @@ ctrlqq.com##.aim-topbar-right
 ctrlqq.com##.STYLE1
 ctrlqq.com##.am-text-right
 ctrlqq.com##.foot
+hub.docker.com###announcement-bar
 iplaysoft.com###section_postbanner
 iplaysoft.com###postlist > div:nth-child(2)
 iplaysoft.com###postlist > div.wwads-cn.wwads-horizontal
