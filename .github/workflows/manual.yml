@@ -3,6 +3,8 @@
 name: Merge List
 on:
   push:
+    branches: [ "main" ]
+    paths: [ "filter/**","mobile/**","/.github/workflows/manual.yml" ]
 jobs:
   Merge:
     runs-on: ubuntu-latest
