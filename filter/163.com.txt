@@ -41,3 +41,5 @@
 !------网易邮箱------
 !头部开通邮箱会员按钮
 mail.163.com###_mail_component_53_53
+!左侧导航栏办公工具菜单
+mail.163.com###dvNavFoot
