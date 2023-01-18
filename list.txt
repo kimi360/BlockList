@@ -27,6 +27,8 @@
 163.com##.mod_ntes_stock.mt30
 163.com##.mod_news_download
 163.com##.subfoot
+mail.163.com###_mail_component_37_37
+mail.163.com###_mail_component_41_41
 mail.163.com###_mail_component_53_53
 mail.163.com###dvNavFoot
 192.168.1.1##img[src="images/merlin-logo.png"]
