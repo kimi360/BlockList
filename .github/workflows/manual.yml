@@ -5,6 +5,7 @@ on:
   push:
     branches: [ "main" ]
     paths: [ "filter/**","mobile/**","/.github/workflows/manual.yml" ]
+  workflow_dispatch: ~
 jobs:
   Merge:
     runs-on: ubuntu-latest
