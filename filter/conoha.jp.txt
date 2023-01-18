@@ -1,3 +1,4 @@
 !-----ConoHa-----
-!头部banner
-conoha.jp##.gmoGroupHeader.gmoGroupHeader-keepdistance
+!去除头部banner
+conoha.jp#$#.gmoGroupHeader{ display: none!important; }
+conoha.jp#$#body { top: 0px!important; }
