@@ -63,6 +63,7 @@ bilibili.com##div.bili-header__bar > ul.left-entry > li:nth-child(8)
 bilibili.com##div.bili-header__bar > ul.left-entry > li:nth-child(9)
 bilibili.com##div.bili-header__bar > ul.right-entry > li:nth-child(2)
 bilibili.com##div.bili-header__bar > ul.right-entry > li:nth-child(4)
+bing.com###vs_cont
 conoha.jp#$#.gmoGroupHeader{ display: none!important; }
 conoha.jp#$#body { top: 0px!important; }
 ctrlqq.com##.aim-topbar-nav
