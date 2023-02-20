@@ -1,5 +1,6 @@
 ! Title: Kimi's adblock list
 ! Expires: 1 day (update frequency)
+! Homepage: https://raw.githubusercontent.com/kimi360/BlockList/main/list.txt
 163.com##.ntes-nav-care
 163.com###js_N_nav > div > div.c-fl > div > div > ul > li:nth-child(3)
 163.com###js_N_nav > div > div.c-fl > div > div > ul > li:nth-child(5)
