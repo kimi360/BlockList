@@ -52,7 +52,6 @@ baidu.com##.s-tab-item.s-tab-b2b
 passport.baidu.com##.app-download-link
 zhidao.baidu.com##.task-list-button
 ||webmap0.bdimg.com/wolfman/static/common/widget/ui/Popup/Popup_21381d4.js
-map.baidu.com###message-center-panel 
 bilibili.com#$#.bili-header__banner{ height: 60px!important;min-height: 60px!important;background-color: #00AEEC!important }
 bilibili.com##div.bili-header__banner > div.taper-line
 bilibili.com###bili-header-banner-img
