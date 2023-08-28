@@ -8,7 +8,7 @@ baidu.com###s_side_wrapper
 !页脚菜单
 baidu.com###bottom_layer
 !头部菜单-hao123
-baidu.com##a[href="https://www.hao123.com"]
+baidu.com##a[href="https://www.hao123.com/?src=from_pc"]
 !头部菜单-直播
 baidu.com##a[href="https://live.baidu.com/"]
 !头部菜单-视频
