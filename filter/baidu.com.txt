@@ -8,11 +8,11 @@ baidu.com###s_side_wrapper
 !页脚菜单
 baidu.com###bottom_layer
 !头部菜单-hao123
-baidu.com##a[href="https://www.hao123.com/?src=from_pc"]
+baidu.com###s-top-left > a:contains(hao123)
 !头部菜单-直播
-baidu.com##a[href="https://live.baidu.com/"]
+baidu.com###s-top-left > a:contains(直播)
 !头部菜单-视频
-baidu.com##a[href="https://haokan.baidu.com/?sfrom=baidu-top"]
+baidu.com###s-top-left > a:contains(视频)
 !右上角天气
 baidu.com##.s-weather-wrapper
 !搜索结果页资讯、采购tab
