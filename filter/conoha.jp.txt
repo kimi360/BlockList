@@ -4,3 +4,5 @@ conoha.jp#$#.gmoGroupHeader{ display: none!important; }
 conoha.jp#$#body { top: 0px!important; }
 !去除登录框右侧广告栏
 conoha.jp##div.formBoxUnit.is-banner
+!重定向google.com/recaptcha/api到recaptcha.net/recaptcha/api
+conoha.jp^$replace=/google\.com\/recaptcha\/api/recaptcha\.net\/recaptcha\/api/
