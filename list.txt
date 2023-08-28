@@ -70,6 +70,7 @@ bing.com###vs_cont
 conoha.jp#$#.gmoGroupHeader{ display: none!important; }
 conoha.jp#$#body { top: 0px!important; }
 conoha.jp##div.formBoxUnit.is-banner
+conoha.jp^$replace=/google\.com\/recaptcha\/api/recaptcha\.net\/recaptcha\/api/
 ctrlqq.com##.aim-topbar-nav
 ctrlqq.com##.aim-topbar-right
 ctrlqq.com##.STYLE1
