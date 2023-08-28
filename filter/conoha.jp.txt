@@ -2,3 +2,5 @@
 !去除头部banner
 conoha.jp#$#.gmoGroupHeader{ display: none!important; }
 conoha.jp#$#body { top: 0px!important; }
+!去除登录框右侧广告栏
+conoha.jp##div.formBoxUnit.is-banner
