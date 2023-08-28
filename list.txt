@@ -43,9 +43,9 @@ baidu.com###s_wrap
 baidu.com###s-hotsearch-wrapper
 baidu.com###s_side_wrapper
 baidu.com###bottom_layer
-baidu.com##a[href="https://www.hao123.com/?src=from_pc"]
-baidu.com##a[href="https://live.baidu.com/"]
-baidu.com##a[href="https://haokan.baidu.com/?sfrom=baidu-top"]
+baidu.com###s-top-left > a:contains(hao123)
+baidu.com###s-top-left > a:contains(直播)
+baidu.com###s-top-left > a:contains(视频)
 baidu.com##.s-weather-wrapper
 baidu.com##.s-tab-item.s-tab-news
 baidu.com##.s-tab-item.s-tab-b2b
