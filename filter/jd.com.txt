@@ -37,9 +37,13 @@ jd.com###shortcut-2014 > div > ul.fr > li:contains(客户服务) + li.spacer
 jd.com###shortcut-2014 > div > ul.fr > li:contains(网站导航)
 jd.com###shortcut-2014 > div > ul.fr > li:contains(网站导航) + li.spacer
 jd.com###shortcut-2014 > div > ul.fr > li:contains(手机京东)
-!头部拍卖、京东云按钮
-jd.com##a[href="https://paimai.jd.com/"]
-jd.com##a[href="https://www.jdcloud.com/cn/pages/618cloud%20?utm_source=MO_jdsc0618&utm_medium=banner&utm_campaign=ggw&utm_term=NA"]
+!头部京东家电、京东生鲜、便宜包邮、进口好物、拍卖、京东五金城
+jd.com###navitems-group1 > li:contains(京东家电)
+jd.com###navitems-group1 > li:contains(京东生鲜)
+jd.com###navitems-group2 > li:contains(便宜包邮)
+jd.com###navitems-group2 > li:contains(进口好物)
+jd.com###navitems-group3 > li:contains(拍卖)
+jd.com###navitems-group3 > li:contains(京东五金城)
 !国际首页搜索栏热搜关键词
 jd.hk###hotwords-2014
 !详情页选择服务、白条分期
