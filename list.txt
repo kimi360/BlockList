@@ -96,16 +96,19 @@ jd.com###J_promotional-top
 jd.com###o-header-2013
 jd.com##.mobile_static
 jd.com###hotwords
-jd.com###shortcut > div > ul.fr > li:nth-child(8)
-jd.com###shortcut > div > ul.fr > li:nth-child(9)
-jd.com###shortcut > div > ul.fr > li:nth-child(14)
-jd.com###shortcut > div > ul.fr > li:nth-child(15)
+jd.com###shortcut > div > ul.fr > li:contains(企业采购)
+jd.com###shortcut > div > ul.fr > li:contains(企业采购) + li.spacer
+jd.com###shortcut > div > ul.fr > li:contains(商家服务) + li.spacer
+jd.com###shortcut > div > ul.fr > li:contains(网站导航)
+jd.com###shortcut > div > ul.fr > li:contains(网站导航) + li.spacer
+jd.com###shortcut > div > ul.fr > li:contains(手机京东)
+jd.com###shortcut > div > ul.fr > li:contains(网站无障碍)
 jd.com###J_promo_lk
 jd.com###J_fs_act_lk
 jd.com###J_niceGoods
 jd.com###J_feeds
-jd.com##.elevator_list > li:nth-child(4)
-jd.com##.elevator_list > li:nth-child(6)
+jd.com##.elevator_list > li:contains(为你推荐)
+jd.com##.elevator_list > li:contains(反馈)
 jd.com##.mod_copyright
 jd.com###footer-2017
 jd.com##.mod_help_cover
