@@ -6,3 +6,8 @@ conoha.jp#$#body { top: 0px!important; }
 conoha.jp##div.formBoxUnit.is-banner
 !重定向google.com/recaptcha/api到recaptcha.net/recaptcha/api
 conoha.jp^$replace=/google\.com\/recaptcha\/api/recaptcha\.net\/recaptcha\/api/
+!减小登录页底部的空间
+conoha.jp#$#.section.form.has-paddingBottom2x{ padding-bottom: 48px!important; }
+!删除登录页社交登陆Facebook，LinkedIn
+conoha.jp##ul.formSocialList > li:contains(Facebook)
+conoha.jp##ul.formSocialList > li:contains(LinkedIn)
