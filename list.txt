@@ -112,10 +112,11 @@ jd.com##.elevator_list > li:contains(反馈)
 jd.com##.mod_copyright
 jd.com###footer-2017
 jd.com##.mod_help_cover
-jd.com###shortcut-2014 > div > ul.fr > li:nth-child(8)
-jd.com###shortcut-2014 > div > ul.fr > li:nth-child(9)
-jd.com###shortcut-2014 > div > ul.fr > li:nth-child(14)
-jd.com###shortcut-2014 > div > ul.fr > li:nth-child(15)
+jd.com###shortcut-2014 > div > ul.fr > li:contains(企业采购)
+jd.com###shortcut-2014 > div > ul.fr > li:contains(客户服务) + li.spacer
+jd.com###shortcut-2014 > div > ul.fr > li:contains(网站导航)
+jd.com###shortcut-2014 > div > ul.fr > li:contains(网站导航) + li.spacer
+jd.com###shortcut-2014 > div > ul.fr > li:contains(手机京东)
 jd.com##a[href="https://paimai.jd.com/"]
 jd.com##a[href="https://www.jdcloud.com/cn/pages/618cloud%20?utm_source=MO_jdsc0618&utm_medium=banner&utm_campaign=ggw&utm_term=NA"]
 jd.hk###hotwords-2014
