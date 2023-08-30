@@ -1,6 +1,46 @@
 ! Title: Kimi's adblock list
 ! Expires: 1 day (update frequency)
 ! Homepage: https://raw.githubusercontent.com/kimi360/BlockList/main/list.txt
+163.com##.ntes-nav-wza-show
+163.com###js_N_nav_left > div > div > ul > li:contains(网易公开课)
+163.com###js_N_nav_left > div > div > ul > li:contains(网易高考智愿)
+163.com###js_N_nav_left > div > div > ul > li:contains(网易红彩)
+163.com###js_N_nav_left > div > div > ul > li:contains(邮箱大师)
+163.com###js_N_nav_left > div > div > ul > li:contains(网易云课堂)
+163.com###js_N_nav > div > div.c-fr > ul > li:contains(移动端)
+163.com###js_N_nav > div > div.c-fr > ul > li:contains(网易公开课)
+163.com###js_N_nav > div > div.c-fr > ul > li:contains(网易严选)
+163.com###js_N_nav > div > div.c-fr > ul > li:contains(支付)
+163.com###js_N_navLoginBefore > div:contains(注册免费邮箱)
+163.com###js_logined_suggest > li:contains(我的LOFTER)
+163.com###js_logined_suggest > li:contains(我的花田)
+163.com###js_logined_suggest > li:contains(我的同城约会)
+163.com###js_logined_suggest > li:contains(我的云笔记)
+163.com###js_logined_suggest > li:contains(网易云阅读)
+163.com###js_logined_suggest > li:contains(云课堂)
+163.com###wljd
+163.com###lazy_live_js
+163.com###js_index2017_wrap > div > div > div.col_r > div.mod_netease_search.show_netease_search
+163.com###js_index2017_wrap > div > div > div.col_r > div.mod_r_program.mt20
+163.com###js_index2017_wrap > div > div > div.col_r > div.mod_r_gongkaike.mt20
+163.com#$##js_index2017_wrap > div > div > div.col_r > div.mod_r_product.mod_product_v2 { margin-top: 0px!important; }
+163.com##.mod_hongcai
+163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_ent.cm_area_show
+163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_auto.cm_area_show
+163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_house
+163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_home.cm_area_show
+163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_lady.cm_area_show
+163.com###js_index2017_wrap > div > div.cm_area.ns_area_comprehensive.cm_area_show
+163.com###js_index2017_wrap > div > div.cm_area.mt40.ns_area_synthesis.cm_area_show
+163.com##.ns_side_qrcode
+163.com##.ns_side_feedback
+163.com##.subfoot
+mail.163.com##div.headerNav
+mail.163.com###theme
+mail.163.com##.themeCtrl-wrap
+mail.163.com###_mail_component_1_1 > li:not(#_mail_component_3_3, #_mail_component_7_7, #_mail_component_9_9)
+mail.163.com###dvMultiTab > ul > li:contains(企业邮箱)
+mail.163.com###dvNavFoot
 appinn.com##.copyrights
 appinn.com###content_box > section.featured-section.clearfix
 appinn.com###latest-posts > article:nth-child(2)
