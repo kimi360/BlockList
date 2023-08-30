@@ -42,11 +42,11 @@ mail.163.com###_mail_component_1_1 > li:not(#_mail_component_3_3, #_mail_compone
 mail.163.com###dvMultiTab > ul > li:contains(企业邮箱)
 mail.163.com###dvNavFoot
 appinn.com##.copyrights
-appinn.com###content_box > section.featured-section.clearfix
-appinn.com###latest-posts > article:nth-child(2)
-appinn.com###text-9 > div.textwidget:last-child > p:nth-child(2)
-appinn.com###text-9 > div.textwidget:last-child > p:nth-child(4)
-meta.appinn.net###banner
+appinn.com###featured-section-1 + section
+appinn.com###latest-posts > div.test.latestPost.post-box.vertical  
+appinn.com###text-9 > div.textwidget > p:not(:has(a))
+meta.appinn.net###ember10
+meta.appinn.net###ember14
 baidu.com###s_wrap
 baidu.com###s-hotsearch-wrapper
 baidu.com###s_side_wrapper
