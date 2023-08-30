@@ -28,7 +28,7 @@
 163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_ent.cm_area_show
 163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_auto.cm_area_show
 163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_house
-163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_home.cm_area_show
+163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_home.cm_area_show > div.col_r
 163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_lady.cm_area_show
 163.com###js_index2017_wrap > div > div.cm_area.ns_area_comprehensive.cm_area_show
 163.com###js_index2017_wrap > div > div.cm_area.mt40.ns_area_synthesis.cm_area_show
