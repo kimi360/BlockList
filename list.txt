@@ -1,37 +1,6 @@
 ! Title: Kimi's adblock list
 ! Expires: 1 day (update frequency)
 ! Homepage: https://raw.githubusercontent.com/kimi360/BlockList/main/list.txt
-163.com##.ntes-nav-care
-163.com###js_N_nav > div > div.c-fl > div > div > ul > li:nth-child(3)
-163.com###js_N_nav > div > div.c-fl > div > div > ul > li:nth-child(5)
-163.com###js_N_nav > div > div.c-fl > div > div > ul > li:nth-child(6)
-163.com###js_N_nav > div > div.c-fr > ul > li
-163.com###wljd
-163.com###lazy_live_js
-163.com###js_logined_suggest > li:nth-child(3)
-163.com###js_logined_suggest > li:nth-child(4)
-163.com###js_logined_suggest > li:nth-child(5)
-163.com###js_logined_suggest > li:nth-child(7)
-163.com###js_logined_suggest > li:nth-child(8)
-163.com##.mod_channel.mod_bohezhibo
-163.com##.mod_hongcai
-163.com##.mod_synthesis_hongcai
-163.com##.mod_channel.mod_lofter
-163.com##.mod_channel.mod_yunread
-163.com##.cm_mod_tab.cm_mod_tab2.mod_tongcheng_tab
-163.com##.mod_home_app
-163.com##.cm_mod_tab.cm_mod_tab1.channel_relative_2016.cm_mod_yanxuan
-163.com##.cm_mod_tab.cm_mod_tab1.mt30.channel_relative_2016.mod_yunketang
-163.com##.cm_mod_tab.cm_mod_tab1.channel_relative_2016.mt30
-163.com##.ns_side_qrcode
-163.com##.newsapp-qrcode
-163.com##.mod_ntes_stock.mt30
-163.com##.mod_news_download
-163.com##.subfoot
-mail.163.com###_mail_component_37_37
-mail.163.com###_mail_component_41_41
-mail.163.com###_mail_component_53_53
-mail.163.com###dvNavFoot
 appinn.com##.copyrights
 appinn.com###content_box > section.featured-section.clearfix
 appinn.com###latest-posts > article:nth-child(2)
