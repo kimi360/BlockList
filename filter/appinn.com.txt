@@ -4,7 +4,9 @@ appinn.com##.copyrights
 !首页头部置顶文章
 appinn.com###featured-section-1 + section
 !列表头部广告文章
-appinn.com###latest-posts > div.test.latestPost.post-box.vertical  
+appinn.com###latest-posts > div.test.latestPost.post-box.vertical
+!底部切换夜间模式按钮
+appinn.com###darkmysite_switch_1368378629
 !底部分享发布的说明文字
 appinn.com###text-9 > div.textwidget > p:not(:has(a))
 !论坛头部提示banner
