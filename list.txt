@@ -43,7 +43,8 @@ mail.163.com###dvMultiTab > ul > li:contains(企业邮箱)
 mail.163.com###dvNavFoot
 appinn.com##.copyrights
 appinn.com###featured-section-1 + section
-appinn.com###latest-posts > div.test.latestPost.post-box.vertical  
+appinn.com###latest-posts > div.test.latestPost.post-box.vertical
+appinn.com###darkmysite_switch_1368378629
 appinn.com###text-9 > div.textwidget > p:not(:has(a))
 meta.appinn.net###ember10
 meta.appinn.net###ember14
