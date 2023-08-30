@@ -37,8 +37,8 @@
 163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_auto.cm_area_show
 !首页房产及侧边栏
 163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_house
-!首页家居、设计师及侧边栏
-163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_home.cm_area_show
+!首页家居右侧边栏
+163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_home.cm_area_show > div.col_r
 !首页时尚、亲子及侧边栏
 163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_lady.cm_area_show
 !首页旅游、教育、网易号、政务及侧边栏
