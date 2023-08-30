@@ -5,6 +5,9 @@ appinn.com##.copyrights
 appinn.com###featured-section-1 + section
 !列表头部广告文章
 appinn.com###latest-posts > div.test.latestPost.post-box.vertical
+!侧边栏年度TOP榜单
+appinn.com###block-69
+appinn.com###block-50
 !底部切换夜间模式按钮
 appinn.com###darkmysite_switch_1368378629
 !底部分享发布的说明文字
