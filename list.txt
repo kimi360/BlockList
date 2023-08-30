@@ -32,7 +32,6 @@ mail.163.com###_mail_component_37_37
 mail.163.com###_mail_component_41_41
 mail.163.com###_mail_component_53_53
 mail.163.com###dvNavFoot
-192.168.1.1##img[src="images/merlin-logo.png"]
 appinn.com##.copyrights
 appinn.com###content_box > section.featured-section.clearfix
 appinn.com###latest-posts > article:nth-child(2)
