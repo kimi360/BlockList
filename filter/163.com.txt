@@ -1,0 +1,64 @@
+!------网易------
+!头部左侧无障碍浏览、进入关怀模式
+163.com##.ntes-nav-wza-show
+!头部左侧应用按钮内的多余菜单-网易高考智愿、网易红彩、邮箱大师、网易云课堂
+163.com###js_N_nav_left > div > div > ul > li:contains(网易公开课)
+163.com###js_N_nav_left > div > div > ul > li:contains(网易高考智愿)
+163.com###js_N_nav_left > div > div > ul > li:contains(网易红彩)
+163.com###js_N_nav_left > div > div > ul > li:contains(邮箱大师)
+163.com###js_N_nav_left > div > div > ul > li:contains(网易云课堂)
+!头部右侧多余菜单-移动端按钮
+163.com###js_N_nav > div > div.c-fr > ul > li:contains(移动端)
+163.com###js_N_nav > div > div.c-fr > ul > li:contains(网易公开课)
+163.com###js_N_nav > div > div.c-fr > ul > li:contains(网易严选)
+163.com###js_N_nav > div > div.c-fr > ul > li:contains(支付)
+163.com###js_N_navLoginBefore > div:contains(注册免费邮箱)
+!头部右侧登陆按钮内的多余菜单
+163.com###js_logined_suggest > li:contains(我的LOFTER)
+163.com###js_logined_suggest > li:contains(我的花田)
+163.com###js_logined_suggest > li:contains(我的同城约会)
+163.com###js_logined_suggest > li:contains(我的云笔记)
+163.com###js_logined_suggest > li:contains(网易云阅读)
+163.com###js_logined_suggest > li:contains(云课堂)
+!头部网络举报图标
+163.com###wljd
+!首页首屏左侧知识公路、右侧搜索栏、核桃故事会、免费公开课
+163.com###lazy_live_js
+163.com###js_index2017_wrap > div > div > div.col_r > div.mod_netease_search.show_netease_search
+163.com###js_index2017_wrap > div > div > div.col_r > div.mod_r_program.mt20
+163.com###js_index2017_wrap > div > div > div.col_r > div.mod_r_gongkaike.mt20
+!首页首屏右侧我的产品贴顶
+163.com#$##js_index2017_wrap > div > div > div.col_r > div.mod_r_product.mod_product_v2 { margin-top: 0px!important; }
+!首页体育左侧红彩专家、编辑精选
+163.com##.mod_hongcai
+!首页娱乐、电影/电视及侧边栏
+163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_ent.cm_area_show
+!首页汽车、导购/行情、选车及侧边栏
+163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_auto.cm_area_show
+!首页房产及侧边栏
+163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_house
+!首页家居、设计师及侧边栏
+163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_home.cm_area_show
+!首页时尚、亲子及侧边栏
+163.com###js_index2017_wrap > div > div.cm_area.cm_area_mt.ns_area_lady.cm_area_show
+!首页旅游、教育、网易号、政务及侧边栏
+163.com###js_index2017_wrap > div > div.cm_area.ns_area_comprehensive.cm_area_show
+!首页故事精选、竟彩预测、游戏、了不起的中国制造、lofter、文化、网易动态及侧边栏
+163.com###js_index2017_wrap > div > div.cm_area.mt40.ns_area_synthesis.cm_area_show
+!侧边栏二维码、用户反馈
+163.com##.ns_side_qrcode
+163.com##.ns_side_feedback
+!页脚菜单
+163.com##.subfoot
+!------网易邮箱------
+!登录页头部右侧菜单
+mail.163.com##div.headerNav
+!邮箱登录页背景主题及左侧切换按钮
+mail.163.com###theme
+mail.163.com##.themeCtrl-wrap
+!邮箱头部保留菜单保留设置之前的部分
+mail.163.com###_mail_component_1_1 > li:not(#_mail_component_3_3, #_mail_component_7_7, #_mail_component_9_9)
+!邮箱tab页中的企业邮箱
+mail.163.com###dvMultiTab > ul > li:contains(企业邮箱)
+!左侧导航栏办公工具菜单
+mail.163.com###dvNavFoot
