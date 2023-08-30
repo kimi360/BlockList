@@ -46,7 +46,7 @@ appinn.com###featured-section-1 + section
 appinn.com###latest-posts > div.test.latestPost.post-box.vertical
 appinn.com###block-69
 appinn.com###block-50
-appinn.com###darkmysite_switch_1368378629
+appinn.com##.darkmysite_switch
 appinn.com###text-9 > div.textwidget > p:not(:has(a))
 meta.appinn.net###ember10
 meta.appinn.net###ember14
