@@ -1,12 +1,4 @@
 !------百度------
-!中部推荐新闻
-baidu.com###s_wrap
-!百度热搜
-baidu.com###s-hotsearch-wrapper
-!侧边栏
-baidu.com###s_side_wrapper
-!页脚菜单
-baidu.com###bottom_layer
 !头部菜单-新闻
 baidu.com###s-top-left > a:contains(新闻)
 !头部菜单-hao123
@@ -19,12 +11,21 @@ baidu.com###s-top-left > a:contains(直播)
 baidu.com###s-top-left > a:contains(视频)
 !右上角天气
 baidu.com##.s-weather-wrapper
-!搜索结果页资讯、采购tab
-baidu.com##.s-tab-item.s-tab-news
-baidu.com##.s-tab-item.s-tab-b2b
-!登录页下载二维码
-passport.baidu.com##.app-download-link
-!知道页面右侧任务按钮
-zhidao.baidu.com##.task-list-button
-!地图右上角消息中心弹框
-||webmap0.bdimg.com/wolfman/static/common/widget/ui/Popup/Popup_21381d4.js
+!中部推荐新闻
+baidu.com###s_wrap
+!百度热搜
+baidu.com###s-hotsearch-wrapper
+!页脚菜单
+baidu.com###bottom_layer
+!搜索结果页知道、资讯、贴吧、文库、采购tab
+baidu.com###s_tab > div > a:contains(知道)
+baidu.com###s_tab > div > a:contains(资讯)
+baidu.com###s_tab > div > a:contains(贴吧)
+baidu.com###s_tab > div > a:contains(文库)
+baidu.com###s_tab > div > a:contains(采购)
+!图片搜索结果页知道、资讯、贴吧、文库、采购tab
+image.baidu.com###bdpcImgTab > a:contains(知道)
+image.baidu.com###bdpcImgTab > a:contains(资讯)
+image.baidu.com###bdpcImgTab > a:contains(贴吧)
+image.baidu.com###bdpcImgTab > a:contains(文库)
+image.baidu.com###bdpcImgTab > a:contains(采购)
