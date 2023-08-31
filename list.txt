@@ -80,6 +80,7 @@ bilibili.com##div.bili-header__bar > ul.left-entry > li:contains(赛事)
 bilibili.com##div.bili-header__bar > ul.left-entry > li:contains(下载客户端)
 bilibili.com##div.bili-header__bar > ul.right-entry > div.vip-wrap
 bilibili.com##div.bili-header__bar > ul.right-entry > li:has(span:contains(动态))
+bilibili.com##div.storage-box
 bing.com###vs_cont
 conoha.jp#$#.gmoGroupHeader{ display: none!important; }
 conoha.jp#$#body { top: 0px!important; }
