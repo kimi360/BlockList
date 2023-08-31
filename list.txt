@@ -88,11 +88,6 @@ conoha.jp^$replace=/google\.com\/recaptcha\/api/recaptcha\.net\/recaptcha\/api/
 conoha.jp#$#.section.form.has-paddingBottom2x{ padding-bottom: 48px!important; }
 conoha.jp##ul.formSocialList > li:contains(Facebook)
 conoha.jp##ul.formSocialList > li:contains(LinkedIn)
-ctrlqq.com##.aim-topbar-nav
-ctrlqq.com##.aim-topbar-right
-ctrlqq.com##.STYLE1
-ctrlqq.com##.am-text-right
-ctrlqq.com##.foot
 hub.docker.com###announcement-bar
 iplaysoft.com###section_postbanner
 iplaysoft.com###postlist > div:nth-child(2)
