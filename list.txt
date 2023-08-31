@@ -89,10 +89,11 @@ conoha.jp#$#.section.form.has-paddingBottom2x{ padding-bottom: 48px!important; }
 conoha.jp##ul.formSocialList > li:contains(Facebook)
 conoha.jp##ul.formSocialList > li:contains(LinkedIn)
 hub.docker.com###announcement-bar
-iplaysoft.com###section_postbanner
-iplaysoft.com###postlist > div:nth-child(2)
-iplaysoft.com###postlist > div.wwads-cn.wwads-horizontal
+iplaysoft.com###section_hot
 iplaysoft.com###sidebar > ul > div
+iplaysoft.com##ul.elevator > li:has(#elevator_comment)
+iplaysoft.com##ul.elevator > li:has(#elevator_social_btn)
+iplaysoft.com##ul.elevator > li:has(a.ipsicon.ipsicon-coffie.popDonate)
 iplaysoft.com##.ft_info
 iplaysoft.com##.post_wechat_qr
 iplaysoft.com##.donate
