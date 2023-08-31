@@ -1,11 +1,12 @@
 !-异次元软件世界-
-!首页banner
-iplaysoft.com###section_postbanner
-!首页文章列表广告
-iplaysoft.com###postlist > div:nth-child(2)
-iplaysoft.com###postlist > div.wwads-cn.wwads-horizontal
-!侧边栏-赞助商
+!首页banner下方推荐
+iplaysoft.com###section_hot
+!首页侧边栏-赞助商
 iplaysoft.com###sidebar > ul > div
+!首页侧边电梯-发表评论、微信公众号、赞赏异次元
+iplaysoft.com##ul.elevator > li:has(#elevator_comment)
+iplaysoft.com##ul.elevator > li:has(#elevator_social_btn)
+iplaysoft.com##ul.elevator > li:has(a.ipsicon.ipsicon-coffie.popDonate)
 !页脚站点信息
 iplaysoft.com##.ft_info
 !详情页微信公众号二维码
