@@ -1,3 +1,0 @@
-!-----JavBus-----
-!头部banner
-javbus.com##.alert.alert-info.alert-dismissable.alert-common
