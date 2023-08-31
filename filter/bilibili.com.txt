@@ -12,4 +12,4 @@ bilibili.com##div.bili-header__bar > ul.left-entry > li:contains(赛事)
 bilibili.com##div.bili-header__bar > ul.left-entry > li:contains(下载客户端)
 !首页头部右侧菜单大会员、动态
 bilibili.com##div.bili-header__bar > ul.right-entry > div.vip-wrap
-bilibili.com##div.bili-header__bar > ul.right-entry > li:contains(动态)
+bilibili.com##div.bili-header__bar > ul.right-entry > li:has(span:contains(动态))
