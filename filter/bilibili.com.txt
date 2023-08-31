@@ -15,3 +15,7 @@ bilibili.com##div.bili-header__bar > ul.right-entry > div.vip-wrap
 bilibili.com##div.bili-header__bar > ul.right-entry > li:has(span:contains(动态))
 !侧边电梯更多按钮
 bilibili.com##div.storage-box
+!详情页评论区头部公告
+bilibili.com##div.reply-header > div.reply-notice
+!详情页右侧底部大家围观的直播
+bilibili.com##div.right-container-inner.scroll-sticky > div:has(div:contains(大家围观的直播))
