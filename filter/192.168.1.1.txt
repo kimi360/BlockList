@@ -4,7 +4,7 @@
 !登录框下移
 192.168.1.1#$##admin-PC { position: fixed;top: 40%;left: 50%;transform: translate(-50%, -50%);padding-top: 0px!important;}
 !登陆页底栏吸底
-192.168.1.1/cgi-bin/luci/web/home#$##ft { position: fixed;bottom: 0px;left: 50%;transform: translate(-50%);}
+192.168.1.1#$##bd:has(#rtloginform) + div#ft { position: fixed;bottom: 0px;left: 50%;transform: translate(-50%);}
 !底栏官方微博、官方微信
 192.168.1.1###ft > p > a:contains(官方微博)
 192.168.1.1###ft > p > a:contains(官方微博) + span
