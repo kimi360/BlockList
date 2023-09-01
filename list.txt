@@ -41,6 +41,13 @@ mail.163.com##.themeCtrl-wrap
 mail.163.com###_mail_component_1_1 > li:not(#_mail_component_3_3, #_mail_component_7_7, #_mail_component_9_9)
 mail.163.com###dvMultiTab > ul > li:contains(企业邮箱)
 mail.163.com###dvNavFoot
+192.168.1.1###admin-PC > div:not(div.title)
+192.168.1.1#$##admin-PC { position: fixed;top: 40%;left: 50%;transform: translate(-50%, -50%);padding-top: 0px!important;}
+192.168.1.1/cgi-bin/luci/web/home#$##ft { position: fixed;bottom: 0px;left: 50%;transform: translate(-50%);}
+192.168.1.1###ft > p > a:contains(官方微博)
+192.168.1.1###ft > p > a:contains(官方微博) + span
+192.168.1.1###ft > p > a:contains(官方微信)
+192.168.1.1###ft > p > a:contains(官方微信) + span
 appinn.com##.copyrights
 appinn.com###featured-section-1 + section
 appinn.com###latest-posts > div.test.latestPost.post-box.vertical
