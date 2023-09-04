@@ -63,6 +63,7 @@ baidu.com###s-top-left > a:contains(贴吧)
 baidu.com###s-top-left > a:contains(直播)
 baidu.com###s-top-left > a:contains(视频)
 baidu.com##.s-weather-wrapper
+baidu.com###lm-new
 baidu.com###s_wrap
 baidu.com###s-hotsearch-wrapper
 baidu.com###bottom_layer
