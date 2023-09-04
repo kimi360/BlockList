@@ -11,6 +11,8 @@ baidu.com###s-top-left > a:contains(直播)
 baidu.com###s-top-left > a:contains(视频)
 !右上角天气
 baidu.com##.s-weather-wrapper
+!中部搜索框下ai功能提示
+baidu.com###lm-new
 !中部推荐新闻
 baidu.com###s_wrap
 !百度热搜
