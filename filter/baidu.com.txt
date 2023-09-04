@@ -17,6 +17,8 @@ baidu.com###lm-new
 baidu.com###s_wrap
 !百度热搜
 baidu.com###s-hotsearch-wrapper
+!右侧侧边栏
+baidu.com###s_side_wrapper
 !页脚菜单
 baidu.com###bottom_layer
 !搜索结果页知道、资讯、贴吧、文库、采购tab
