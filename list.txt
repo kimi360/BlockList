@@ -96,6 +96,19 @@ bilibili.com##div.right-container-inner.scroll-sticky > div:has(div:contains(大
 bing.com###vs_cont
 conoha.jp#$#.gmoGroupHeader{ display: none!important; }
 conoha.jp#$#body { top: 0px!important; }
+#首页头部banner
+conoha.jp##main > div.headerBanner
+#增加底部空白
+conoha.jp#$#main > div.mainvisual { padding-bottom: 96px }
+#首页多余元素
+conoha.jp##main > section.section.campaign.has-paddingTop2x.has-paddingBottom2x
+conoha.jp##main > section.section.news.is-bgGray.has-paddingTop2x.has-paddingBottom2x
+conoha.jp##main > section.section.ownedmedia.has-paddingTop2x.has-paddingBottom2x
+conoha.jp##main > section.section.case.is-bgGray.has-paddingTop2x.has-paddingBottom2x
+conoha.jp##main > section.section.banner.has-paddingTop2x.has-paddingBottom2x
+conoha.jp##main > section.section.notes.is-bgGray.has-paddingTop2x.has-paddingBottom2x
+#首页底部集团footer
+conoha.jp##main > div.gmoGroupFooter
 conoha.jp##div.formBoxUnit.is-banner
 conoha.jp^$replace=/google\.com\/recaptcha\/api/recaptcha\.net\/recaptcha\/api/
 conoha.jp#$#.section.form.has-paddingBottom2x{ padding-bottom: 48px!important; }
