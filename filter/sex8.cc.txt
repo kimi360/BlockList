@@ -1,4 +1,0 @@
-!------杏吧------
-!登录页成人确认弹层
-sex8.cc###conn_box > div.warning.hidden:nth-child(5)
-sex8.cc###conn_box > div.warn_pannel.hidden:last-child

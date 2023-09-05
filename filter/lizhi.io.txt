@@ -1,9 +1,0 @@
-!----荔枝数码----
-!首页底部版权信息
-lizhi.io##.copyright-bottom
-!首页底部友情链接
-lizhi.io##.friend-links
-!页面侧边关注有礼
-lizhi.io##div[x-data="{}"]
-!商城底部版权信息
-store.lizhi.io##._bem-footer__hint

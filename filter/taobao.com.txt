@@ -1,7 +1,0 @@
-!------淘宝------
-!首页头部去领红包二维码
-taobao.com##.tbh-qr-wrapper
-!首页热搜关键字
-taobao.com##.search-hots
-!页脚
-taobao.com##.tb-footer.tb-footer-with-logo
