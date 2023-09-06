@@ -24,3 +24,5 @@ conoha.jp#$#.section.form.has-paddingBottom2x{ padding-bottom: 48px!important; }
 !删除登录页社交登陆Facebook，LinkedIn
 conoha.jp##ul.formSocialList > li:contains(Facebook)
 conoha.jp##ul.formSocialList > li:contains(LinkedIn)
+!登陆后页面底部的图片连接
+conoha.jp##div.db-box-2 > div.site_seal
