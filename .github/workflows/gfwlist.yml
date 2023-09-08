@@ -1,0 +1,29 @@
+# This is a basic workflow that is manually triggered
+
+name: Merge GFW List
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  push:
+    branches: [ "main" ]
+    paths: [ "proxy/**","/.github/workflows/gfwlist.yml" ]
+  workflow_dispatch: ~
+jobs:
+  Merge:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+    - name: Get gfwlist
+      run:  curl -s https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt | base64 -d > gfwlist.txt && sed -i '$d' gfwlist.txt
+    - name: Generate block list(mobile)
+      run:  echo '' | cat gfwlist.txt - proxy/rule.txt <(echo -e '\n!---------------------EOF-----------------------') | base64 > proxy.txt 
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v9.1.3
+      with:
+        author_name: kimi360
+        author_email: kimi360@gamil.com
+        message: "更新代理列表"
+        add: '["proxy.txt"]'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
