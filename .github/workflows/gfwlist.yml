@@ -16,7 +16,7 @@ jobs:
       uses: actions/checkout@master
     - name: Get gfwlist
       run:  curl -s https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt | base64 -d > gfwlist.txt && sed -i '$d' gfwlist.txt
-    - name: Generate block list(mobile)
+    - name: Generate proxy list
       run:  echo '' | cat gfwlist.txt - proxy/rule.txt <(echo '!---------------------EOF-----------------------') | base64 > proxy.txt 
     - name: Commit changes
       uses: EndBug/add-and-commit@v9.1.3
