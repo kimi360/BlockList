@@ -170,6 +170,7 @@ passport.jd.com##.tips-wrapper
 passport.jd.com##.q-link
 mall.jd.com##.jTdCode.fixed
 mall.jd.com##.s-delivery.J_deliveryWrap
+lizhi.shop##footer
 smzdm.com###search-form > .hot-words
 smzdm.com###footer
 smzdm.com##.footer-floating-layer
