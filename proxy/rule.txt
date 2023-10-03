@@ -1,3 +1,4 @@
 !#############Customize List Start##############
 ||blog.kimi360.top
+||c2.synology.com
 !##############Customize List End###############
