@@ -49,7 +49,7 @@ mail.163.com###dvNavFoot
 192.168.1.1###ft > p > a:contains(官方微信)
 192.168.1.1###ft > p > a:contains(官方微信) + span
 appinn.com##.copyrights
-appinn.com###featured-section-1 + section
+appinn.com##article:has(header > div.post-info > span:contains(FD))
 appinn.com###latest-posts > div.test.latestPost.post-box.vertical
 appinn.com###block-69
 appinn.com###block-50
