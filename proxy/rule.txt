@@ -2,5 +2,6 @@
 ||blog.kimi360.top
 ||c2.synology.com
 ||sehuatang.net
+||singlelogin.re
 ||sordum.org
 !##############Customize List End###############
