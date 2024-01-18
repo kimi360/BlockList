@@ -1,5 +1,7 @@
 !#############Customize List Start##############
+||aria.kimi360.top
 ||blog.kimi360.top
+||p.kimi360.top
 ||c2.synology.com
 ||hammerspoon.org
 ||sehuatang.net
