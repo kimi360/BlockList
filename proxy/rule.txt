@@ -1,4 +1,5 @@
 !#############Customize List Start##############
+||blog.kimi360.top
 ||c2.synology.com
 ||hammerspoon.org
 ||sehuatang.net
