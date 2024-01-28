@@ -19,7 +19,7 @@ jobs:
     - name: Generate proxy list
       run:  echo '' | cat gfwlist.txt - proxy/rule.txt <(echo '!---------------------EOF-----------------------') | base64 > proxy.txt 
     - name: Commit changes
-      uses: EndBug/add-and-commit@v9.1.3
+      uses: EndBug/add-and-commit@v9.1.4
       with:
         author_name: kimi360
         author_email: kimi360@gamil.com
