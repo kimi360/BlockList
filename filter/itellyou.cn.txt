@@ -1,0 +1,4 @@
+!-我告诉你-
+!捐赠弹窗
+next.itellyou.cn###info-header-modal
+next.itellyou.cn##div.modal-backdrop.fade.show
