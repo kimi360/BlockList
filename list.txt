@@ -120,6 +120,8 @@ iplaysoft.com##ul.elevator > li:has(a.ipsicon.ipsicon-coffie.popDonate)
 iplaysoft.com##.ft_info
 iplaysoft.com##.post_wechat_qr
 iplaysoft.com##.donate
+next.itellyou.cn###info-header-modal
+next.itellyou.cn##div.modal-backdrop.fade.show
 jd.com###J_promotional-top
 jd.com###o-header-2013
 jd.com##.mobile_static
