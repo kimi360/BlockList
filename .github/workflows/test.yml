@@ -14,10 +14,7 @@ jobs:
       uses: actions/checkout@master
       with:
         repository: 'kimi360/cloudflare'
-        ref: main
-        path: cloudflare
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}
     - name: Get list
       run:  curl -s https://raw.githubusercontent.com/kimi360/BlockList/main/list.txt
     - name: Get mlist
