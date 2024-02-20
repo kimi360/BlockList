@@ -25,5 +25,9 @@ jobs:
         author_email: kimi360@gamil.com
         message: "更新代理列表"
         add: '["proxy.txt"]'
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Webhook
+      uses: joelwmale/webhook-action@master
+      with:
+        url: ${{ secrets.WEBHOOK_URL }}
+        headers: '{"Authorization": "token ${{ secrets.GITHUB_TOKEN }}"}'
+        body: '{"event_type": "webhook"}'
