@@ -23,5 +23,3 @@ jobs:
         author_email: kimi360@gamil.com
         message: "更新过滤列表"
         add: '["list.txt","mlist.txt"]'
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
