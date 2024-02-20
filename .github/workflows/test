@@ -1,0 +1,22 @@
+# This is a basic workflow that is manually triggered
+
+name: Push to cloudflare
+on:
+  push:
+    branches: [ "main" ]
+    paths: [ "list.txt","mlist.txt","proxy.txt" ]
+  workflow_dispatch: ~
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout BlockList
+      uses: actions/checkout@master
+    - name: Checkout cloudflare
+      uses: actions/checkout@master
+      with:
+        repository: 'kimi360/cloudflare'
+    - name: Get gfwlist
+      run:  pwd
+    - name: Get gfwlist
+      run:  cd .. && ls
