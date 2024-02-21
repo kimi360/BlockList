@@ -1,10 +1,10 @@
 # This is a basic workflow that is manually triggered
 
-name: Merge List
+name: Merge AD List
 on:
   push:
     branches: [ "main" ]
-    paths: [ "filter/**","mobile/**","/.github/workflows/manual.yml" ]
+    paths: [ "filter/**","mobile/**","/.github/workflows/adlist.yml" ]
   workflow_dispatch: ~
 jobs:
   Merge:
