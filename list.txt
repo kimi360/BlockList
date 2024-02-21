@@ -1,5 +1,5 @@
 ! Title: Kimi's adblock list
-! Version: 202402211454
+! Version: 202402211457
 ! Expires: 1 day (update frequency)
 ! Homepage: https://raw.githubusercontent.com/kimi360/BlockList/main/list.txt
 163.com##.ntes-nav-wza-show
