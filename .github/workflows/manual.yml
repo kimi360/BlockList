@@ -23,3 +23,9 @@ jobs:
         author_email: kimi360@gamil.com
         message: "更新过滤列表"
         add: '["list.txt","mlist.txt"]'
+    - name: Send Webhook
+      uses: joelwmale/webhook-action@2.3.2
+      with:
+        url: ${{ secrets.WEBHOOK_URL }}
+        headers: '{"Accept": "application/vnd.github.everest-preview+json", "Authorization": "token ${{ secrets.WEBHOOK_TOKEN }}"}'
+        body: '{"event_type": "webhook"}'
