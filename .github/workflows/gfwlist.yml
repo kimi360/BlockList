@@ -25,3 +25,11 @@ jobs:
         author_email: kimi360@gamil.com
         message: "更新代理列表"
         add: '["proxy.txt"]'
+    - name: Send Webhook
+      run: |
+        curl -X POST \
+        -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}"
+        -H "Accept: application/vnd.github.everest-preview+json" \
+        -H "Content-Type: application/json" \
+        ${{ secrets.WEBHOOK_URL}} \
+        --data '{"event_type": "webhook"}'
