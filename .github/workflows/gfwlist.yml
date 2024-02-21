@@ -28,7 +28,7 @@ jobs:
     - name: Send Webhook
       run: |
         curl -X POST \
-        -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}"
+        -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
         -H "Accept: application/vnd.github.everest-preview+json" \
         -H "Content-Type: application/json" \
         ${{ secrets.WEBHOOK_URL}} \
