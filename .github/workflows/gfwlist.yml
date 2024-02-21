@@ -27,9 +27,8 @@ jobs:
         add: '["proxy.txt"]'
     - name: Send Webhook
       run: |
-        curl -X POST \
-        -u "kimi360:${{ secrets.GITHUB_TOKEN }}" \
+        curl -L -X POST \
         -H "Accept: application/vnd.github.everest-preview+json" \
-        -H "Content-Type: application/json" \
+        -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
         https://api.github.com/repos/kimi360/cloudflare/dispatches \
         --data '{"event_type": "webhook"}'
