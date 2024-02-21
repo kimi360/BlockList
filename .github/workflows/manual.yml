@@ -10,8 +10,10 @@ jobs:
   Merge:
     runs-on: ubuntu-latest
     steps:
-    - name: Set timezone
-      run: echo "TZ='Asia/Shanghai'; export TZ" >> $GITHUB_ENV
+    - name: set beijing timezone
+      uses: szenius/set-timezone@v1.2
+      with:
+        timezoneLinux: "Asia/Shanghai"
     - name: Checkout
       uses: actions/checkout@master
     - name: Generate block list(pc)
