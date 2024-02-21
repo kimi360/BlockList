@@ -26,9 +26,8 @@ jobs:
         message: "更新代理列表"
         add: '["proxy.txt"]'
     - name: Send Webhook
-      run: |
-        curl -L -X POST \
-        -H "Accept: application/vnd.github.everest-preview+json" \
-        -H "Authorization: Bearer ${{ secrets.WEBHOOK_TOKEN }}" \
-        ${{ secrets.WEBHOOK_URL }} \
-        --data '{"event_type": "webhook"}'
+      uses: joelwmale/webhook-action@2.3.2
+      with:
+        url: ${{ secrets.WEBHOOK_URL }}
+        headers: '{"Accept": "application/vnd.github.everest-preview+json", "Authorization": "token ${{ secrets.WEBHOOK_TOKEN }}"}'
+        body: '{"event_type": "webhook"}'
