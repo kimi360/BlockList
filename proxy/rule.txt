@@ -4,6 +4,8 @@
 ||p.kimi360.top
 ||c2.synology.com
 ||hammerspoon.org
+||hcaptcha.com
+||rnengage.com
 ||sehuatang.net
 ||singlelogin.re
 ||sordum.org
