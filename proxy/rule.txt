@@ -10,4 +10,6 @@
 ||singlelogin.re
 ||sordum.org
 ||ttrss.henry.wang
+||ppgg.in
+||bitwarden.com
 !##############Customize List End###############
