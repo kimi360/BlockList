@@ -5,6 +5,7 @@
 ||c2.synology.com
 ||hammerspoon.org
 ||hcaptcha.com
+||openart.ai
 ||p.kimi360.top
 ||ppgg.in
 ||rnengage.com
