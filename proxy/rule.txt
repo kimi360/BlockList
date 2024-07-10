@@ -1,12 +1,11 @@
 !#############Customize List Start##############
-||aria.kimi360.top
+.kimi360.top
 ||bitwarden.com
-||blog.kimi360.top
 ||c2.synology.com
 ||hammerspoon.org
 ||hcaptcha.com
+||kimi360.top
 ||openart.ai
-||p.kimi360.top
 ||ppgg.in
 ||rnengage.com
 ||sehuatang.net
