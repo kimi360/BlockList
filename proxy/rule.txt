@@ -3,14 +3,17 @@
 @@||read.kimi360.top
 ||bitwarden.com
 ||c2.synology.com
+||dos.zczc.cz
 ||hammerspoon.org
 ||hcaptcha.com
 ||kimi360.top
 ||openart.ai
+||pikpak.com
 ||ppgg.in
 ||rnengage.com
 ||sehuatang.net
 ||singlelogin.re
 ||sordum.org
+||torrentkitty.net
 ||ttrss.henry.wang
 !##############Customize List End###############
