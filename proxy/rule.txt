@@ -8,13 +8,16 @@
 ||hammerspoon.org
 ||hcaptcha.com
 ||kimi360.top
+||missav.com
 ||openart.ai
 ||pikpak.com
 ||ppgg.in
 ||rnengage.com
 ||sehuatang.net
 ||singlelogin.re
+||sleazyfork.org
 ||sordum.org
+||stashapp.cc
 ||torrentkitty.net
 ||ttrss.henry.wang
 !##############Customize List End###############
