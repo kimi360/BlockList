@@ -1,5 +1,6 @@
 !#############Customize List Start##############
 .kimi360.top
+@@||av.kimi360.top
 @@||read.kimi360.top
 @@||vw.kimi360.top
 ||bitwarden.com
@@ -18,6 +19,7 @@
 ||sleazyfork.org
 ||sordum.org
 ||stashapp.cc
+||stashdb.org
 ||torrentkitty.net
 ||ttrss.henry.wang
 !##############Customize List End###############
