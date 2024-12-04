@@ -20,6 +20,7 @@
 ||sordum.org
 ||stashapp.cc
 ||stashdb.org
+||thisvid.com
 ||torrentkitty.net
 ||ttrss.henry.wang
 !##############Customize List End###############
