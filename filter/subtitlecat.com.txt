@@ -1,0 +1,2 @@
+!搜索页banner
+subtitlecat.com##a[href="plan.php"]
