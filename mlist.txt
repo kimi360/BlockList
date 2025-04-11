@@ -1,5 +1,5 @@
 ! Title: Kimi's adblock list for mobile
-! Version: 202501171040
+! Version: 202504111445
 ! Expires: 1 day (update frequency)
 ! Homepage: https://raw.githubusercontent.com/kimi360/BlockList/main/mlist.txt
 baidu.com##.blank-frame

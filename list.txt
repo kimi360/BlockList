@@ -1,5 +1,5 @@
 ! Title: Kimi's adblock list
-! Version: 202501171040
+! Version: 202504111445
 ! Expires: 1 day (update frequency)
 ! Homepage: https://raw.githubusercontent.com/kimi360/BlockList/main/list.txt
 163.com##.ntes-nav-wza-show
@@ -83,6 +83,7 @@ bilibili.com#$#.bili-header__banner{ height: 60px!important;min-height: 60px!imp
 bilibili.com##div.bili-header__banner > div.taper-line
 bilibili.com###bili-header-banner-img
 bilibili.com##div.header-banner__inner
+bilibili.com###i_cecream > div.adblock-tips
 bilibili.com##div.bili-header__bar > ul.left-entry > li:not(:first-child)
 bilibili.com##div.bili-header__bar > ul.right-entry > div.vip-wrap
 bilibili.com##div.bili-header__bar > ul.right-entry > li:has(span:contains(动态))
