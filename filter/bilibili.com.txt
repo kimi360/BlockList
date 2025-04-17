@@ -4,6 +4,8 @@ bilibili.com#$#.bili-header__banner{ height: 60px!important;min-height: 60px!imp
 bilibili.com##div.bili-header__banner > div.taper-line
 bilibili.com###bili-header-banner-img
 bilibili.com##div.header-banner__inner
+!去除头部动画banner
+bilibili.com##div.animated-banner
 !首页头部广告过滤器提示
 bilibili.com###i_cecream > div.adblock-tips
 !首页头部左侧菜单仅保留首页
