@@ -1,5 +1,5 @@
 ! Title: Kimi's adblock list
-! Version: 202504170946
+! Version: 202505220953
 ! Expires: 1 day (update frequency)
 ! Homepage: https://raw.githubusercontent.com/kimi360/BlockList/main/list.txt
 163.com##.ntes-nav-wza-show
@@ -51,6 +51,7 @@ mail.163.com###dvNavFoot
 192.168.1.1###ft > p > a:contains(官方微信) + span
 appinn.com##.copyrights
 appinn.com##article:has(header > div.post-info > span:contains(FD))
+appinn.com##article:has(header > div.post-info > span:contains(团购))
 appinn.com###latest-posts > div.test.latestPost.post-box.vertical
 appinn.com###block-69
 appinn.com###block-50
