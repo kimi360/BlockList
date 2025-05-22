@@ -3,6 +3,7 @@
 appinn.com##.copyrights
 !头部置顶广告文章
 appinn.com##article:has(header > div.post-info > span:contains(FD))
+appinn.com##article:has(header > div.post-info > span:contains(团购))
 !列表头部广告文章
 appinn.com###latest-posts > div.test.latestPost.post-box.vertical
 !侧边栏年度TOP榜单
