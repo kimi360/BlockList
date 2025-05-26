@@ -1,6 +1,8 @@
 !-异次元软件世界-
 !首页banner下方推荐
 iplaysoft.com###section_hot
+!首页推荐的文章
+iplaysoft.com###postlist > div[class*="entry-recommend"]
 !首页侧边栏-赞助商
 iplaysoft.com###sidebar > ul > div
 !首页侧边电梯-发表评论、微信公众号、赞赏异次元
